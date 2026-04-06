@@ -1,19 +1,11 @@
 import { useState } from 'react'
 import ScoreBadge from './ScoreBadge'
 import type { NameCandidate } from '../lib/types'
-import type { Ohaeng } from '../lib/types'
+import { OHAENG_HEX } from '../lib/constants'
 
 interface ResultCardProps {
   candidate: NameCandidate
   rank: number
-}
-
-const OHAENG_HEX: Record<Ohaeng, string> = {
-  '木': '#4CAF50',
-  '火': '#F44336',
-  '土': '#FF9800',
-  '金': '#9E9E9E',
-  '水': '#2196F3',
 }
 
 function luckColor(luck: string): string {

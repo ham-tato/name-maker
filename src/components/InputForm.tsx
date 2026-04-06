@@ -64,13 +64,13 @@ export function InputForm() {
     setShowDropdown(val.length > 0)
   }
 
-  function handleSurnameSelect(entry: SurnameEntry) {
-    const firstHanja = entry.hanja[0]
+  function handleSurnameSelect(entry: SurnameEntry, hanjaIndex: number) {
+    const hanja = entry.hanja[hanjaIndex]
     selectSurname({
       reading: entry.reading,
-      char: firstHanja.char,
-      stroke: firstHanja.stroke,
-      ohaeng: firstHanja.ohaeng,
+      char: hanja.char,
+      stroke: hanja.stroke,
+      ohaeng: hanja.ohaeng,
     })
     setShowDropdown(false)
   }
@@ -187,19 +187,20 @@ export function InputForm() {
             ref={dropdownRef}
             className="absolute z-10 w-full mt-1 bg-white border border-gray-200 rounded-lg shadow-lg max-h-48 overflow-y-auto"
           >
-            {surnameMatches.map((entry) => (
-              <button
-                key={entry.reading}
-                type="button"
-                onClick={() => handleSurnameSelect(entry)}
-                className="w-full text-left px-3 py-2 text-sm hover:bg-gray-50 flex items-center gap-2"
-              >
-                <span className="text-gray-900 font-medium">{entry.reading}</span>
-                <span className="text-gray-400 text-xs">
-                  {entry.hanja.map((h) => h.char).join(' / ')}
-                </span>
-              </button>
-            ))}
+            {surnameMatches.flatMap((entry) =>
+              entry.hanja.map((h, idx) => (
+                <button
+                  key={`${entry.reading}-${h.char}`}
+                  type="button"
+                  onClick={() => handleSurnameSelect(entry, idx)}
+                  className="w-full text-left px-3 py-2 text-sm hover:bg-gray-50 flex items-center gap-2"
+                >
+                  <span className="text-gray-900 font-medium">{entry.reading}</span>
+                  <span className="font-serif text-gray-700">{h.char}</span>
+                  <span className="text-gray-400 text-xs">{h.meaning}</span>
+                </button>
+              ))
+            )}
           </div>
         )}
       </div>
