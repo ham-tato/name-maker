@@ -1,9 +1,6 @@
 import { useState, useRef, useEffect } from 'react'
 import { useNameStore } from '../stores/nameStore'
 import type { SurnameEntry } from '../lib/types'
-import surnamesData from '../data/surnames.json'
-
-const ALL_SURNAMES: SurnameEntry[] = surnamesData as SurnameEntry[]
 
 function getTimeSlotLabel(hour: number): string {
   if (hour === 0 || hour === 23) return '자시(子)'
