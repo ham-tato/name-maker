@@ -6,6 +6,29 @@ import citiesData from '../data/cities.json'
 const ALL_CITIES: CityEntry[] = citiesData as CityEntry[]
 const MAJOR_CITIES = ALL_CITIES.filter(c => c.major)
 
+/**
+ * 한자 뜻을 관형형(수식형)으로 변환한다.
+ * 예: "순박하다" → "순박할", "높다" → "높을", "이루다" → "이룰", "성씨" → "성씨"
+ */
+function toModifierForm(meaning: string): string {
+  // 쉼표로 여러 뜻이 있으면 첫 번째만 사용
+  const first = meaning.split(',')[0].trim()
+  if (first.endsWith('하다')) return first.slice(0, -2) + '할'
+  if (!first.endsWith('다')) return first  // 명사 등 그대로
+  const stem = first.slice(0, -1)  // '다' 제거
+  const last = stem[stem.length - 1]
+  const code = last.charCodeAt(0)
+  if (code < 0xAC00 || code > 0xD7A3) return stem
+  const jongseong = (code - 0xAC00) % 28
+  if (jongseong === 0) {
+    // 받침 없음 → ㄹ 받침 추가 (종성 index 8)
+    return stem.slice(0, -1) + String.fromCharCode(code + 8)
+  } else {
+    // 받침 있음 → '을' 추가
+    return stem + '을'
+  }
+}
+
 // 시진(時辰) 기준 옵션 — value는 해당 시진 대표 시각(사주 계산에 사용)
 const SIJIN_OPTIONS: { value: number | null; label: string }[] = [
   { value: null, label: '모름' },
@@ -275,18 +298,26 @@ export function InputForm() {
             className="absolute z-10 w-full mt-1 bg-white border border-gray-200 rounded-lg shadow-lg max-h-48 overflow-y-auto"
           >
             {surnameMatches.flatMap((entry) =>
-              entry.hanja.map((h, idx) => (
-                <button
-                  key={`${entry.reading}-${h.char}`}
-                  type="button"
-                  onClick={() => handleSurnameSelect(entry, idx)}
-                  className="w-full text-left px-3 py-2 text-sm hover:bg-gray-50 flex items-center gap-2"
-                >
-                  <span className="text-gray-900 font-medium">{entry.reading}</span>
-                  <span className="font-serif text-gray-700">{h.char}</span>
-                  <span className="text-gray-400 text-xs">{h.meaning}</span>
-                </button>
-              ))
+              [...entry.hanja]
+                .sort((a, b) => {
+                  // 성씨 의미를 먼저 노출
+                  const aIsSurname = a.meaning.includes('성씨') ? 0 : 1
+                  const bIsSurname = b.meaning.includes('성씨') ? 0 : 1
+                  return aIsSurname - bIsSurname
+                })
+                .map((h, idx) => (
+                  <button
+                    key={`${entry.reading}-${h.char}`}
+                    type="button"
+                    onClick={() => handleSurnameSelect(entry, entry.hanja.indexOf(h))}
+                    className="w-full text-left px-3 py-2 text-sm hover:bg-gray-50 flex items-center gap-2"
+                  >
+                    <span className="font-serif text-gray-800 text-base">{h.char}</span>
+                    <span className="text-gray-500 text-xs">
+                      {toModifierForm(h.meaning)} {entry.reading}
+                    </span>
+                  </button>
+                ))
             )}
           </div>
         )}
