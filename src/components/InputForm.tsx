@@ -6,28 +6,21 @@ import citiesData from '../data/cities.json'
 const ALL_CITIES: CityEntry[] = citiesData as CityEntry[]
 const MAJOR_CITIES = ALL_CITIES.filter(c => c.major)
 
-function getTimeSlotLabel(hour: number): string {
-  if (hour === 0 || hour === 23) return '자시(子)'
-  if (hour === 1 || hour === 2) return '축시(丑)'
-  if (hour === 3 || hour === 4) return '인시(寅)'
-  if (hour === 5 || hour === 6) return '묘시(卯)'
-  if (hour === 7 || hour === 8) return '진시(辰)'
-  if (hour === 9 || hour === 10) return '사시(巳)'
-  if (hour === 11 || hour === 12) return '오시(午)'
-  if (hour === 13 || hour === 14) return '미시(未)'
-  if (hour === 15 || hour === 16) return '신시(申)'
-  if (hour === 17 || hour === 18) return '유시(酉)'
-  if (hour === 19 || hour === 20) return '술시(戌)'
-  if (hour === 21 || hour === 22) return '해시(亥)'
-  return ''
-}
-
-const HOUR_OPTIONS: { value: number | null; label: string }[] = [
+// 시진(時辰) 기준 옵션 — value는 해당 시진 대표 시각(사주 계산에 사용)
+const SIJIN_OPTIONS: { value: number | null; label: string }[] = [
   { value: null, label: '모름' },
-  ...Array.from({ length: 24 }, (_, i) => ({
-    value: i,
-    label: `${i}시 (${getTimeSlotLabel(i)})`,
-  })),
+  { value: 23, label: '자시(子時)  밤 11시 ~ 새벽 1시' },
+  { value: 1,  label: '축시(丑時)  새벽 1시 ~ 3시' },
+  { value: 3,  label: '인시(寅時)  새벽 3시 ~ 5시' },
+  { value: 5,  label: '묘시(卯時)  새벽 5시 ~ 7시' },
+  { value: 7,  label: '진시(辰時)  오전 7시 ~ 9시' },
+  { value: 9,  label: '사시(巳時)  오전 9시 ~ 11시' },
+  { value: 11, label: '오시(午時)  오전 11시 ~ 오후 1시' },
+  { value: 13, label: '미시(未時)  오후 1시 ~ 3시' },
+  { value: 15, label: '신시(申時)  오후 3시 ~ 5시' },
+  { value: 17, label: '유시(酉時)  오후 5시 ~ 7시' },
+  { value: 19, label: '술시(戌時)  오후 7시 ~ 9시' },
+  { value: 21, label: '해시(亥時)  오후 9시 ~ 11시' },
 ]
 
 export function InputForm() {
@@ -204,7 +197,7 @@ export function InputForm() {
               <option key={d} value={String(d)}>{d}일</option>
             ))}
           </select>
-          {/* 시간 */}
+          {/* 시간 (시진 기준) */}
           <select
             value={input.birthHour === null ? '' : String(input.birthHour)}
             onChange={(e) => {
@@ -213,7 +206,7 @@ export function InputForm() {
             }}
             className="flex-1 border border-gray-200 rounded-lg px-2 py-2 text-sm focus:outline-none focus:border-gold"
           >
-            {HOUR_OPTIONS.map((opt) => (
+            {SIJIN_OPTIONS.map((opt) => (
               <option
                 key={opt.value === null ? 'null' : opt.value}
                 value={opt.value === null ? '' : String(opt.value)}
