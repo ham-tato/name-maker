@@ -170,33 +170,31 @@ export function InputForm() {
             className="w-28 border border-gray-200 rounded-lg px-3 py-2 text-sm focus:outline-none focus:border-gold"
           />
           {/* 월 */}
-          <select
+          <input
+            type="number"
+            placeholder="월"
             value={month}
+            min={1}
+            max={12}
             onChange={(e) => {
               setMonth(e.target.value)
               handleDateChange(year, e.target.value, day)
             }}
-            className="w-16 border border-gray-200 rounded-lg px-2 py-2 text-sm focus:outline-none focus:border-gold"
-          >
-            <option value="">월</option>
-            {Array.from({ length: 12 }, (_, i) => i + 1).map((m) => (
-              <option key={m} value={String(m)}>{m}월</option>
-            ))}
-          </select>
+            className="w-16 border border-gray-200 rounded-lg px-3 py-2 text-sm focus:outline-none focus:border-gold"
+          />
           {/* 일 */}
-          <select
+          <input
+            type="number"
+            placeholder="일"
             value={day}
+            min={1}
+            max={31}
             onChange={(e) => {
               setDay(e.target.value)
               handleDateChange(year, month, e.target.value)
             }}
-            className="w-16 border border-gray-200 rounded-lg px-2 py-2 text-sm focus:outline-none focus:border-gold"
-          >
-            <option value="">일</option>
-            {Array.from({ length: 31 }, (_, i) => i + 1).map((d) => (
-              <option key={d} value={String(d)}>{d}일</option>
-            ))}
-          </select>
+            className="w-16 border border-gray-200 rounded-lg px-3 py-2 text-sm focus:outline-none focus:border-gold"
+          />
           {/* 시간 (시진 기준) */}
           <select
             value={input.birthHour === null ? '' : String(input.birthHour)}
