@@ -9,18 +9,18 @@ const MAJOR_CITIES = ALL_CITIES.filter(c => c.major)
 // 시진(時辰) 기준 옵션 — value는 해당 시진 대표 시각(사주 계산에 사용)
 const SIJIN_OPTIONS: { value: number | null; label: string }[] = [
   { value: null, label: '모름' },
-  { value: 23, label: '자시(子時)  밤 11시 ~ 새벽 1시' },
-  { value: 1,  label: '축시(丑時)  새벽 1시 ~ 3시' },
-  { value: 3,  label: '인시(寅時)  새벽 3시 ~ 5시' },
-  { value: 5,  label: '묘시(卯時)  새벽 5시 ~ 7시' },
-  { value: 7,  label: '진시(辰時)  오전 7시 ~ 9시' },
-  { value: 9,  label: '사시(巳時)  오전 9시 ~ 11시' },
-  { value: 11, label: '오시(午時)  오전 11시 ~ 오후 1시' },
-  { value: 13, label: '미시(未時)  오후 1시 ~ 3시' },
-  { value: 15, label: '신시(申時)  오후 3시 ~ 5시' },
-  { value: 17, label: '유시(酉時)  오후 5시 ~ 7시' },
-  { value: 19, label: '술시(戌時)  오후 7시 ~ 9시' },
-  { value: 21, label: '해시(亥時)  오후 9시 ~ 11시' },
+  { value: 0,  label: '자시(子時)  23:30(전날) ~ 01:30' },
+  { value: 2,  label: '축시(丑時)  01:30 ~ 03:30' },
+  { value: 4,  label: '인시(寅時)  03:30 ~ 05:30' },
+  { value: 6,  label: '묘시(卯時)  05:30 ~ 07:30' },
+  { value: 8,  label: '진시(辰時)  07:30 ~ 09:30' },
+  { value: 10, label: '사시(巳時)  09:30 ~ 11:30' },
+  { value: 12, label: '오시(午時)  11:30 ~ 13:30' },
+  { value: 14, label: '미시(未時)  13:30 ~ 15:30' },
+  { value: 16, label: '신시(申時)  15:30 ~ 17:30' },
+  { value: 18, label: '유시(酉時)  17:30 ~ 19:30' },
+  { value: 20, label: '술시(戌時)  19:30 ~ 21:30' },
+  { value: 22, label: '해시(亥時)  21:30 ~ 23:30' },
 ]
 
 export function InputForm() {
