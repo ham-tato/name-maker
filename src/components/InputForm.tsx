@@ -37,6 +37,21 @@ export function InputForm() {
     generate,
   } = useNameStore()
 
+  // 연/월/일 분리 상태
+  const [year, setYear] = useState('')
+  const [month, setMonth] = useState('')
+  const [day, setDay] = useState('')
+
+  function handleDateChange(y: string, m: string, d: string) {
+    if (y.length === 4 && m && d) {
+      const mm = m.padStart(2, '0')
+      const dd = d.padStart(2, '0')
+      setInput({ birthdate: `${y}-${mm}-${dd}` })
+    } else {
+      setInput({ birthdate: '' })
+    }
+  }
+
   const [showDropdown, setShowDropdown] = useState(false)
   const dropdownRef = useRef<HTMLDivElement>(null)
   const surnameInputRef = useRef<HTMLInputElement>(null)
@@ -91,42 +106,72 @@ export function InputForm() {
       }}
       className="bg-white rounded-xl p-6 shadow-sm border border-gray-100 space-y-5"
     >
-      {/* 생년월일 */}
+      {/* 생년월일 + 시간 */}
       <div>
         <label className="text-sm font-medium text-gray-700 mb-1.5 block">
-          생년월일
+          생년월일 · 시간
         </label>
-        <input
-          type="date"
-          value={input.birthdate}
-          onChange={(e) => setInput({ birthdate: e.target.value })}
-          className={inputBase}
-          required
-        />
-      </div>
-
-      {/* 태어난 시간 */}
-      <div>
-        <label className="text-sm font-medium text-gray-700 mb-1.5 block">
-          태어난 시간
-        </label>
-        <select
-          value={input.birthHour === null ? '' : String(input.birthHour)}
-          onChange={(e) => {
-            const val = e.target.value
-            setInput({ birthHour: val === '' ? null : Number(val) })
-          }}
-          className={inputBase}
-        >
-          {HOUR_OPTIONS.map((opt) => (
-            <option
-              key={opt.value === null ? 'null' : opt.value}
-              value={opt.value === null ? '' : String(opt.value)}
-            >
-              {opt.label}
-            </option>
-          ))}
-        </select>
+        <div className="flex gap-2">
+          {/* 연도 */}
+          <input
+            type="number"
+            placeholder="연도"
+            value={year}
+            min={1900}
+            max={2100}
+            onChange={(e) => {
+              setYear(e.target.value)
+              handleDateChange(e.target.value, month, day)
+            }}
+            className="w-28 border border-gray-200 rounded-lg px-3 py-2 text-sm focus:outline-none focus:border-gold"
+          />
+          {/* 월 */}
+          <select
+            value={month}
+            onChange={(e) => {
+              setMonth(e.target.value)
+              handleDateChange(year, e.target.value, day)
+            }}
+            className="w-16 border border-gray-200 rounded-lg px-2 py-2 text-sm focus:outline-none focus:border-gold"
+          >
+            <option value="">월</option>
+            {Array.from({ length: 12 }, (_, i) => i + 1).map((m) => (
+              <option key={m} value={String(m)}>{m}월</option>
+            ))}
+          </select>
+          {/* 일 */}
+          <select
+            value={day}
+            onChange={(e) => {
+              setDay(e.target.value)
+              handleDateChange(year, month, e.target.value)
+            }}
+            className="w-16 border border-gray-200 rounded-lg px-2 py-2 text-sm focus:outline-none focus:border-gold"
+          >
+            <option value="">일</option>
+            {Array.from({ length: 31 }, (_, i) => i + 1).map((d) => (
+              <option key={d} value={String(d)}>{d}일</option>
+            ))}
+          </select>
+          {/* 시간 */}
+          <select
+            value={input.birthHour === null ? '' : String(input.birthHour)}
+            onChange={(e) => {
+              const val = e.target.value
+              setInput({ birthHour: val === '' ? null : Number(val) })
+            }}
+            className="flex-1 border border-gray-200 rounded-lg px-2 py-2 text-sm focus:outline-none focus:border-gold"
+          >
+            {HOUR_OPTIONS.map((opt) => (
+              <option
+                key={opt.value === null ? 'null' : opt.value}
+                value={opt.value === null ? '' : String(opt.value)}
+              >
+                {opt.label}
+              </option>
+            ))}
+          </select>
+        </div>
       </div>
 
       {/* 성별 */}
