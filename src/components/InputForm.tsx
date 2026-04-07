@@ -1,6 +1,10 @@
 import { useState, useRef, useEffect } from 'react'
 import { useNameStore } from '../stores/nameStore'
-import type { SurnameEntry } from '../lib/types'
+import type { SurnameEntry, CityEntry } from '../lib/types'
+import citiesData from '../data/cities.json'
+
+const ALL_CITIES: CityEntry[] = citiesData as CityEntry[]
+const MAJOR_CITIES = ALL_CITIES.filter(c => c.major)
 
 function getTimeSlotLabel(hour: number): string {
   if (hour === 0 || hour === 23) return '자시(子)'
@@ -56,7 +60,54 @@ export function InputForm() {
   const dropdownRef = useRef<HTMLDivElement>(null)
   const surnameInputRef = useRef<HTMLInputElement>(null)
 
-  // 드롭다운 외부 클릭 시 닫기
+  // 출생지 검색
+  const [cityQuery, setCityQuery] = useState('')
+  const [cityResults, setCityResults] = useState<CityEntry[]>([])
+  const [showCityDropdown, setShowCityDropdown] = useState(false)
+  const cityDropdownRef = useRef<HTMLDivElement>(null)
+  const cityInputRef = useRef<HTMLInputElement>(null)
+
+  useEffect(() => {
+    function handleClickOutside(e: MouseEvent) {
+      if (
+        cityDropdownRef.current && !cityDropdownRef.current.contains(e.target as Node) &&
+        cityInputRef.current && !cityInputRef.current.contains(e.target as Node)
+      ) {
+        setShowCityDropdown(false)
+      }
+    }
+    document.addEventListener('mousedown', handleClickOutside)
+    return () => document.removeEventListener('mousedown', handleClickOutside)
+  }, [])
+
+  function handleCityQuery(e: React.ChangeEvent<HTMLInputElement>) {
+    const q = e.target.value
+    setCityQuery(q)
+    if (q.length > 0) {
+      setCityResults(ALL_CITIES.filter(c => c.name.includes(q)))
+      setShowCityDropdown(true)
+    } else {
+      setCityResults([])
+      setShowCityDropdown(false)
+    }
+  }
+
+  function selectCity(city: CityEntry) {
+    setInput({ birthCityName: city.name, birthLongitude: city.longitude })
+    setCityQuery('')
+    setShowCityDropdown(false)
+  }
+
+  function clearCity() {
+    setInput({ birthCityName: '', birthLongitude: null })
+  }
+
+  function offsetLabel(longitude: number): string {
+    const min = Math.round((longitude - 135) * 4)
+    return min <= 0 ? `${min}분` : `+${min}분`
+  }
+
+  // 성씨 드롭다운 외부 클릭 시 닫기
   useEffect(() => {
     function handleClickOutside(e: MouseEvent) {
       if (
@@ -248,6 +299,80 @@ export function InputForm() {
             )}
           </div>
         )}
+      </div>
+
+      {/* 출생지 */}
+      <div>
+        <label className="text-sm font-medium text-gray-700 mb-1.5 block">
+          출생지 <span className="text-xs text-gray-400 font-normal">(시간 보정, 선택)</span>
+        </label>
+
+        {/* 선택된 도시 표시 */}
+        {input.birthCityName ? (
+          <div className="flex items-center gap-2 mb-2">
+            <span className="text-sm text-gray-700 font-medium">{input.birthCityName}</span>
+            <span className="text-xs text-gold">
+              ({offsetLabel(input.birthLongitude!)} 보정)
+            </span>
+            <button type="button" onClick={clearCity} className="text-xs text-gray-400 hover:text-gray-600 ml-auto">
+              ✕ 해제
+            </button>
+          </div>
+        ) : null}
+
+        {/* 주요 도시 칩 */}
+        <div className="flex flex-wrap gap-1.5 mb-2">
+          {MAJOR_CITIES.map(city => (
+            <button
+              key={city.name}
+              type="button"
+              onClick={() => selectCity(city)}
+              className={
+                input.birthCityName === city.name
+                  ? 'border border-gold bg-gold text-white rounded-full px-3 py-1 text-xs'
+                  : 'border border-gray-200 rounded-full px-3 py-1 text-xs text-gray-600 hover:border-gold transition-colors'
+              }
+            >
+              {city.name}
+            </button>
+          ))}
+        </div>
+
+        {/* 기타 도시 검색 */}
+        <div className="relative">
+          <input
+            ref={cityInputRef}
+            type="text"
+            value={cityQuery}
+            onChange={handleCityQuery}
+            placeholder="기타 도시 검색..."
+            className="w-full border border-gray-200 rounded-lg px-3 py-2 text-sm focus:outline-none focus:border-gold"
+            autoComplete="off"
+          />
+          {showCityDropdown && cityResults.length > 0 && (
+            <div
+              ref={cityDropdownRef}
+              className="absolute z-10 w-full mt-1 bg-white border border-gray-200 rounded-lg shadow-lg max-h-40 overflow-y-auto"
+            >
+              {cityResults.map(city => (
+                <button
+                  key={city.name}
+                  type="button"
+                  onClick={() => selectCity(city)}
+                  className="w-full text-left px-3 py-2 text-sm hover:bg-gray-50 flex justify-between"
+                >
+                  <span className="text-gray-900">{city.name}</span>
+                  <span className="text-xs text-gray-400">{offsetLabel(city.longitude)} 보정</span>
+                </button>
+              ))}
+            </div>
+          )}
+          {showCityDropdown && cityQuery.length > 0 && cityResults.length === 0 && (
+            <div className="absolute z-10 w-full mt-1 bg-white border border-gray-200 rounded-lg shadow-lg px-3 py-2 text-sm text-gray-400">
+              검색 결과 없음
+            </div>
+          )}
+        </div>
       </div>
 
       {/* 이름 글자 수 */}

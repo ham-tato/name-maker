@@ -108,10 +108,19 @@ export interface NameCandidate {
   relaxed: boolean                  // 조건 완화 여부
 }
 
+// 도시 항목
+export interface CityEntry {
+  name: string
+  longitude: number
+  major: boolean
+}
+
 // 입력 폼 상태
 export interface InputState {
   birthdate: string                 // YYYY-MM-DD
   birthHour: number | null          // 0~23, null=모름
+  birthCityName: string             // 출생지 도시 이름 (표시용)
+  birthLongitude: number | null     // 출생지 경도 (시간보정용)
   gender: 'male' | 'female' | 'neutral'
   surnameReading: string
   selectedSurname: SelectedSurname | null

@@ -10,10 +10,40 @@ const ALL_SURNAMES: SurnameEntry[] = surnamesData as SurnameEntry[]
 const initialInput: InputState = {
   birthdate: '',
   birthHour: null,
+  birthCityName: '',
+  birthLongitude: null,
   gender: 'neutral',
   surnameReading: '',
   selectedSurname: null,
   nameLength: 2,
+}
+
+/** 경도 기반 진태양시 보정: (경도 - 135) × 4분 */
+function applyLongitudeCorrection(
+  birthdate: string,
+  birthHour: number | null,
+  birthLongitude: number | null
+): { date: string; hour: number | null } {
+  if (birthHour === null || birthLongitude === null) {
+    return { date: birthdate, hour: birthHour }
+  }
+  const offsetMinutes = Math.round((birthLongitude - 135) * 4)
+  let totalMinutes = birthHour * 60 + offsetMinutes
+  let adjustedDate = birthdate
+
+  if (totalMinutes < 0) {
+    totalMinutes += 24 * 60
+    const d = new Date(birthdate + 'T12:00:00Z')
+    d.setUTCDate(d.getUTCDate() - 1)
+    adjustedDate = d.toISOString().slice(0, 10)
+  } else if (totalMinutes >= 24 * 60) {
+    totalMinutes -= 24 * 60
+    const d = new Date(birthdate + 'T12:00:00Z')
+    d.setUTCDate(d.getUTCDate() + 1)
+    adjustedDate = d.toISOString().slice(0, 10)
+  }
+
+  return { date: adjustedDate, hour: Math.floor(totalMinutes / 60) }
 }
 
 const initialResult: ResultState = {
@@ -61,7 +91,8 @@ export const useNameStore = create<NameStore>((set, get) => ({
     }
     set(s => ({ result: { ...s.result, isLoading: true, error: null } }))
     try {
-      const saju = computeSaju(input.birthdate, input.birthHour)
+      const { date, hour } = applyLongitudeCorrection(input.birthdate, input.birthHour, input.birthLongitude)
+      const saju = computeSaju(date, hour)
       const yongsin = extractYongsin(saju)
       const candidates = generateNames(input, yongsin)
       set({ result: { saju, yongsin, candidates, isLoading: false, error: null } })
