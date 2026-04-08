@@ -75,22 +75,31 @@ export function generateNames(input: InputState, yongsin: Ohaeng[]): NameCandida
     (c: NameCandidate) => c.eumyang.isBalanced,
   ]
 
+  function sortCandidates(list: NameCandidate[]) {
+    return list.sort((a, b) => {
+      if (b.score !== a.score) return b.score - a.score
+      // 동점 시 발음오행 상생 ✓ 우선
+      if (a.ohaeng.balpumSangsaeng !== b.ohaeng.balpumSangsaeng)
+        return a.ohaeng.balpumSangsaeng ? -1 : 1
+      // 그 다음 자원오행 상생 ✓ 우선
+      if (a.ohaeng.jawiSangsaeng !== b.ohaeng.jawiSangsaeng)
+        return a.ohaeng.jawiSangsaeng ? -1 : 1
+      return 0
+    })
+  }
+
   // 시도 1~6: numStages를 5에서 0까지 줄여가며 5개 이상이면 반환
   for (let numStages = 5; numStages >= 0; numStages--) {
     const activeFns = stageFilters.slice(0, numStages)
     const result = allCandidates.filter(c => activeFns.every(fn => fn(c)))
     if (result.length >= 5) {
       const relaxed = numStages < 5
-      return result
-        .map(c => ({ ...c, relaxed }))
-        .sort((a, b) => b.score - a.score)
+      return sortCandidates(result.map(c => ({ ...c, relaxed })))
         .slice(0, 5)
     }
   }
 
   // 폴백: 전체를 점수순 정렬 후 5개 반환 (relaxed=true)
-  return allCandidates
-    .map(c => ({ ...c, relaxed: true }))
-    .sort((a, b) => b.score - a.score)
+  return sortCandidates(allCandidates.map(c => ({ ...c, relaxed: true })))
     .slice(0, 5)
 }
