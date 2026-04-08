@@ -80,21 +80,12 @@ function BirthdateStep({ onNext }: { onNext: () => void }) {
 
   const isValid = year.length === 4 && !!month && !!day
 
-  const preview = year || month || day
-    ? `${year || '____'}년 ${month || '__'}월 ${day || '__'}일`
-    : null
-
   return (
     <div className="flex flex-col h-full">
       <p className="text-white/50 text-sm mb-3">생년월일</p>
       <h2 className="text-2xl font-bold text-white mb-8 leading-snug">
         아이가 태어난 날이<br />언제인가요?
       </h2>
-
-      {/* 미리보기 */}
-      <div className="mb-8 text-3xl font-bold text-white/20 tracking-wide">
-        {preview || '____년 __월 __일'}
-      </div>
 
       {/* 입력 */}
       <div className="flex gap-3 mb-10">
