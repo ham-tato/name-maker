@@ -1,4 +1,5 @@
 import hanjaData from '../data/hanja.json'
+import nameWhitelistData from '../data/nameWhitelist.json'
 import { computeSuri } from './suri'
 import { computeOhaeng } from './ohaeng'
 import { computeEumyang } from './eumyang'
@@ -6,6 +7,11 @@ import { checkNaturalness } from './naturalness'
 import type { InputState, NameCandidate, HanjaEntry, Ohaeng, SelectedSurname } from './types'
 
 const ALL_HANJA: HanjaEntry[] = hanjaData as HanjaEntry[]
+
+type WhitelistGender = 'male' | 'female' | 'neutral'
+const WHITELIST: Map<string, WhitelistGender> = new Map(
+  (nameWhitelistData as { reading: string; gender: WhitelistGender }[]).map(e => [e.reading, e.gender])
+)
 
 function buildCandidate(
   surname: SelectedSurname,
@@ -60,10 +66,21 @@ export function generateNames(input: InputState, yongsin: Ohaeng[]): NameCandida
     ? filtered.map(h => [h])
     : filtered.flatMap(h1 => filtered.filter(h2 => h2 !== h1).map(h2 => [h1, h2]))
 
-  // 3단계 [필수]: 자연스러움 필터 포함하여 모든 후보 빌드
+  // 3단계 [필수]: 자연스러움 필터 + 화이트리스트 필터
   const allCandidates = combos
     .map(chars => buildCandidate(surname, chars, yongsin, false))
-    .filter(c => c.naturalness.isNatural)
+    .filter(c => {
+      if (!c.naturalness.isNatural) return false
+      // 2글자 이름만 화이트리스트 적용
+      if (input.nameLength === 2) {
+        const reading = c.chars.map(h => h.reading).join('')
+        const wGender = WHITELIST.get(reading)
+        if (!wGender) return false
+        if (input.gender === 'male' && wGender === 'female') return false
+        if (input.gender === 'female' && wGender === 'male') return false
+      }
+      return true
+    })
 
   // 4-8단계 완화 시도
   // stageFilters[0] = 4단계(수리), [1] = 5단계(용신), [2] = 6단계(자원오행), [3] = 7단계(발음오행), [4] = 8단계(음양)

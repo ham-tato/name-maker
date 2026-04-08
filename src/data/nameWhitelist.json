@@ -1,0 +1,5358 @@
+[
+  {
+    "reading": "가경",
+    "gender": "female"
+  },
+  {
+    "reading": "가람",
+    "gender": "neutral"
+  },
+  {
+    "reading": "가령",
+    "gender": "female"
+  },
+  {
+    "reading": "가민",
+    "gender": "female"
+  },
+  {
+    "reading": "가비",
+    "gender": "female"
+  },
+  {
+    "reading": "가빈",
+    "gender": "female"
+  },
+  {
+    "reading": "가연",
+    "gender": "female"
+  },
+  {
+    "reading": "가영",
+    "gender": "female"
+  },
+  {
+    "reading": "가온",
+    "gender": "neutral"
+  },
+  {
+    "reading": "가원",
+    "gender": "female"
+  },
+  {
+    "reading": "가윤",
+    "gender": "female"
+  },
+  {
+    "reading": "가율",
+    "gender": "female"
+  },
+  {
+    "reading": "가은",
+    "gender": "female"
+  },
+  {
+    "reading": "가을",
+    "gender": "female"
+  },
+  {
+    "reading": "가인",
+    "gender": "female"
+  },
+  {
+    "reading": "가현",
+    "gender": "female"
+  },
+  {
+    "reading": "가희",
+    "gender": "female"
+  },
+  {
+    "reading": "강민",
+    "gender": "male"
+  },
+  {
+    "reading": "강우",
+    "gender": "male"
+  },
+  {
+    "reading": "강유",
+    "gender": "male"
+  },
+  {
+    "reading": "강인",
+    "gender": "male"
+  },
+  {
+    "reading": "강준",
+    "gender": "male"
+  },
+  {
+    "reading": "강현",
+    "gender": "male"
+  },
+  {
+    "reading": "강훈",
+    "gender": "male"
+  },
+  {
+    "reading": "강희",
+    "gender": "female"
+  },
+  {
+    "reading": "건민",
+    "gender": "male"
+  },
+  {
+    "reading": "건영",
+    "gender": "male"
+  },
+  {
+    "reading": "건우",
+    "gender": "male"
+  },
+  {
+    "reading": "건율",
+    "gender": "male"
+  },
+  {
+    "reading": "건하",
+    "gender": "male"
+  },
+  {
+    "reading": "건호",
+    "gender": "male"
+  },
+  {
+    "reading": "건후",
+    "gender": "male"
+  },
+  {
+    "reading": "건희",
+    "gender": "neutral"
+  },
+  {
+    "reading": "경란",
+    "gender": "female"
+  },
+  {
+    "reading": "경모",
+    "gender": "male"
+  },
+  {
+    "reading": "경민",
+    "gender": "neutral"
+  },
+  {
+    "reading": "경빈",
+    "gender": "neutral"
+  },
+  {
+    "reading": "경석",
+    "gender": "male"
+  },
+  {
+    "reading": "경수",
+    "gender": "male"
+  },
+  {
+    "reading": "경숙",
+    "gender": "female"
+  },
+  {
+    "reading": "경아",
+    "gender": "female"
+  },
+  {
+    "reading": "경원",
+    "gender": "neutral"
+  },
+  {
+    "reading": "경은",
+    "gender": "female"
+  },
+  {
+    "reading": "경준",
+    "gender": "male"
+  },
+  {
+    "reading": "경태",
+    "gender": "male"
+  },
+  {
+    "reading": "경현",
+    "gender": "male"
+  },
+  {
+    "reading": "경호",
+    "gender": "male"
+  },
+  {
+    "reading": "경환",
+    "gender": "male"
+  },
+  {
+    "reading": "경훈",
+    "gender": "male"
+  },
+  {
+    "reading": "경희",
+    "gender": "female"
+  },
+  {
+    "reading": "고운",
+    "gender": "female"
+  },
+  {
+    "reading": "고은",
+    "gender": "female"
+  },
+  {
+    "reading": "관우",
+    "gender": "male"
+  },
+  {
+    "reading": "광민",
+    "gender": "male"
+  },
+  {
+    "reading": "광현",
+    "gender": "male"
+  },
+  {
+    "reading": "규나",
+    "gender": "female"
+  },
+  {
+    "reading": "규리",
+    "gender": "female"
+  },
+  {
+    "reading": "규린",
+    "gender": "female"
+  },
+  {
+    "reading": "규림",
+    "gender": "female"
+  },
+  {
+    "reading": "규미",
+    "gender": "female"
+  },
+  {
+    "reading": "규민",
+    "gender": "neutral"
+  },
+  {
+    "reading": "규비",
+    "gender": "female"
+  },
+  {
+    "reading": "규빈",
+    "gender": "neutral"
+  },
+  {
+    "reading": "규연",
+    "gender": "neutral"
+  },
+  {
+    "reading": "규원",
+    "gender": "neutral"
+  },
+  {
+    "reading": "규진",
+    "gender": "male"
+  },
+  {
+    "reading": "규태",
+    "gender": "male"
+  },
+  {
+    "reading": "규혁",
+    "gender": "male"
+  },
+  {
+    "reading": "규현",
+    "gender": "male"
+  },
+  {
+    "reading": "규희",
+    "gender": "female"
+  },
+  {
+    "reading": "근영",
+    "gender": "female"
+  },
+  {
+    "reading": "근우",
+    "gender": "male"
+  },
+  {
+    "reading": "근호",
+    "gender": "male"
+  },
+  {
+    "reading": "근후",
+    "gender": "male"
+  },
+  {
+    "reading": "금비",
+    "gender": "female"
+  },
+  {
+    "reading": "기동",
+    "gender": "male"
+  },
+  {
+    "reading": "기백",
+    "gender": "male"
+  },
+  {
+    "reading": "기범",
+    "gender": "male"
+  },
+  {
+    "reading": "기성",
+    "gender": "male"
+  },
+  {
+    "reading": "기영",
+    "gender": "male"
+  },
+  {
+    "reading": "기원",
+    "gender": "male"
+  },
+  {
+    "reading": "기윤",
+    "gender": "male"
+  },
+  {
+    "reading": "기정",
+    "gender": "male"
+  },
+  {
+    "reading": "기준",
+    "gender": "male"
+  },
+  {
+    "reading": "기태",
+    "gender": "male"
+  },
+  {
+    "reading": "기현",
+    "gender": "male"
+  },
+  {
+    "reading": "기환",
+    "gender": "male"
+  },
+  {
+    "reading": "기훈",
+    "gender": "male"
+  },
+  {
+    "reading": "나겸",
+    "gender": "female"
+  },
+  {
+    "reading": "나경",
+    "gender": "female"
+  },
+  {
+    "reading": "나금",
+    "gender": "female"
+  },
+  {
+    "reading": "나라",
+    "gender": "female"
+  },
+  {
+    "reading": "나래",
+    "gender": "female"
+  },
+  {
+    "reading": "나리",
+    "gender": "female"
+  },
+  {
+    "reading": "나린",
+    "gender": "female"
+  },
+  {
+    "reading": "나림",
+    "gender": "female"
+  },
+  {
+    "reading": "나민",
+    "gender": "female"
+  },
+  {
+    "reading": "나연",
+    "gender": "female"
+  },
+  {
+    "reading": "나영",
+    "gender": "female"
+  },
+  {
+    "reading": "나예",
+    "gender": "female"
+  },
+  {
+    "reading": "나온",
+    "gender": "female"
+  },
+  {
+    "reading": "나운",
+    "gender": "female"
+  },
+  {
+    "reading": "나원",
+    "gender": "female"
+  },
+  {
+    "reading": "나윤",
+    "gender": "female"
+  },
+  {
+    "reading": "나율",
+    "gender": "female"
+  },
+  {
+    "reading": "나은",
+    "gender": "female"
+  },
+  {
+    "reading": "나현",
+    "gender": "female"
+  },
+  {
+    "reading": "나혜",
+    "gender": "female"
+  },
+  {
+    "reading": "나희",
+    "gender": "female"
+  },
+  {
+    "reading": "남규",
+    "gender": "male"
+  },
+  {
+    "reading": "노아",
+    "gender": "male"
+  },
+  {
+    "reading": "누리",
+    "gender": "female"
+  },
+  {
+    "reading": "다겸",
+    "gender": "female"
+  },
+  {
+    "reading": "다경",
+    "gender": "female"
+  },
+  {
+    "reading": "다나",
+    "gender": "female"
+  },
+  {
+    "reading": "다미",
+    "gender": "female"
+  },
+  {
+    "reading": "다빈",
+    "gender": "female"
+  },
+  {
+    "reading": "다솔",
+    "gender": "female"
+  },
+  {
+    "reading": "다솜",
+    "gender": "female"
+  },
+  {
+    "reading": "다애",
+    "gender": "female"
+  },
+  {
+    "reading": "다엘",
+    "gender": "neutral"
+  },
+  {
+    "reading": "다연",
+    "gender": "female"
+  },
+  {
+    "reading": "다영",
+    "gender": "female"
+  },
+  {
+    "reading": "다예",
+    "gender": "female"
+  },
+  {
+    "reading": "다온",
+    "gender": "neutral"
+  },
+  {
+    "reading": "다원",
+    "gender": "neutral"
+  },
+  {
+    "reading": "다윤",
+    "gender": "female"
+  },
+  {
+    "reading": "다율",
+    "gender": "female"
+  },
+  {
+    "reading": "다은",
+    "gender": "female"
+  },
+  {
+    "reading": "다인",
+    "gender": "female"
+  },
+  {
+    "reading": "다정",
+    "gender": "female"
+  },
+  {
+    "reading": "다해",
+    "gender": "female"
+  },
+  {
+    "reading": "다현",
+    "gender": "neutral"
+  },
+  {
+    "reading": "다혜",
+    "gender": "female"
+  },
+  {
+    "reading": "다희",
+    "gender": "female"
+  },
+  {
+    "reading": "단비",
+    "gender": "female"
+  },
+  {
+    "reading": "단아",
+    "gender": "female"
+  },
+  {
+    "reading": "단우",
+    "gender": "male"
+  },
+  {
+    "reading": "담이",
+    "gender": "female"
+  },
+  {
+    "reading": "담희",
+    "gender": "female"
+  },
+  {
+    "reading": "대겸",
+    "gender": "male"
+  },
+  {
+    "reading": "대규",
+    "gender": "male"
+  },
+  {
+    "reading": "대연",
+    "gender": "male"
+  },
+  {
+    "reading": "대영",
+    "gender": "male"
+  },
+  {
+    "reading": "대원",
+    "gender": "male"
+  },
+  {
+    "reading": "대윤",
+    "gender": "male"
+  },
+  {
+    "reading": "대한",
+    "gender": "male"
+  },
+  {
+    "reading": "대현",
+    "gender": "male"
+  },
+  {
+    "reading": "대호",
+    "gender": "male"
+  },
+  {
+    "reading": "대환",
+    "gender": "male"
+  },
+  {
+    "reading": "대훈",
+    "gender": "male"
+  },
+  {
+    "reading": "대희",
+    "gender": "male"
+  },
+  {
+    "reading": "도건",
+    "gender": "male"
+  },
+  {
+    "reading": "도겸",
+    "gender": "neutral"
+  },
+  {
+    "reading": "도경",
+    "gender": "neutral"
+  },
+  {
+    "reading": "도균",
+    "gender": "male"
+  },
+  {
+    "reading": "도담",
+    "gender": "neutral"
+  },
+  {
+    "reading": "도빈",
+    "gender": "male"
+  },
+  {
+    "reading": "도아",
+    "gender": "female"
+  },
+  {
+    "reading": "도연",
+    "gender": "neutral"
+  },
+  {
+    "reading": "도영",
+    "gender": "neutral"
+  },
+  {
+    "reading": "도우",
+    "gender": "male"
+  },
+  {
+    "reading": "도운",
+    "gender": "male"
+  },
+  {
+    "reading": "도원",
+    "gender": "neutral"
+  },
+  {
+    "reading": "도윤",
+    "gender": "neutral"
+  },
+  {
+    "reading": "도율",
+    "gender": "male"
+  },
+  {
+    "reading": "도은",
+    "gender": "female"
+  },
+  {
+    "reading": "도이",
+    "gender": "female"
+  },
+  {
+    "reading": "도준",
+    "gender": "male"
+  },
+  {
+    "reading": "도진",
+    "gender": "male"
+  },
+  {
+    "reading": "도하",
+    "gender": "neutral"
+  },
+  {
+    "reading": "도헌",
+    "gender": "male"
+  },
+  {
+    "reading": "도현",
+    "gender": "neutral"
+  },
+  {
+    "reading": "도형",
+    "gender": "male"
+  },
+  {
+    "reading": "도혜",
+    "gender": "female"
+  },
+  {
+    "reading": "도훈",
+    "gender": "male"
+  },
+  {
+    "reading": "도희",
+    "gender": "female"
+  },
+  {
+    "reading": "동건",
+    "gender": "male"
+  },
+  {
+    "reading": "동규",
+    "gender": "male"
+  },
+  {
+    "reading": "동균",
+    "gender": "male"
+  },
+  {
+    "reading": "동근",
+    "gender": "male"
+  },
+  {
+    "reading": "동민",
+    "gender": "male"
+  },
+  {
+    "reading": "동석",
+    "gender": "male"
+  },
+  {
+    "reading": "동섭",
+    "gender": "male"
+  },
+  {
+    "reading": "동수",
+    "gender": "male"
+  },
+  {
+    "reading": "동연",
+    "gender": "male"
+  },
+  {
+    "reading": "동영",
+    "gender": "male"
+  },
+  {
+    "reading": "동우",
+    "gender": "male"
+  },
+  {
+    "reading": "동욱",
+    "gender": "male"
+  },
+  {
+    "reading": "동원",
+    "gender": "male"
+  },
+  {
+    "reading": "동윤",
+    "gender": "male"
+  },
+  {
+    "reading": "동율",
+    "gender": "male"
+  },
+  {
+    "reading": "동재",
+    "gender": "male"
+  },
+  {
+    "reading": "동주",
+    "gender": "neutral"
+  },
+  {
+    "reading": "동준",
+    "gender": "male"
+  },
+  {
+    "reading": "동진",
+    "gender": "male"
+  },
+  {
+    "reading": "동채",
+    "gender": "male"
+  },
+  {
+    "reading": "동하",
+    "gender": "male"
+  },
+  {
+    "reading": "동헌",
+    "gender": "male"
+  },
+  {
+    "reading": "동혁",
+    "gender": "male"
+  },
+  {
+    "reading": "동현",
+    "gender": "male"
+  },
+  {
+    "reading": "동호",
+    "gender": "male"
+  },
+  {
+    "reading": "동환",
+    "gender": "male"
+  },
+  {
+    "reading": "동훈",
+    "gender": "male"
+  },
+  {
+    "reading": "동휘",
+    "gender": "male"
+  },
+  {
+    "reading": "동희",
+    "gender": "male"
+  },
+  {
+    "reading": "두현",
+    "gender": "male"
+  },
+  {
+    "reading": "라경",
+    "gender": "female"
+  },
+  {
+    "reading": "라엘",
+    "gender": "female"
+  },
+  {
+    "reading": "라연",
+    "gender": "female"
+  },
+  {
+    "reading": "라온",
+    "gender": "neutral"
+  },
+  {
+    "reading": "라원",
+    "gender": "female"
+  },
+  {
+    "reading": "라윤",
+    "gender": "female"
+  },
+  {
+    "reading": "라율",
+    "gender": "female"
+  },
+  {
+    "reading": "라은",
+    "gender": "female"
+  },
+  {
+    "reading": "라임",
+    "gender": "female"
+  },
+  {
+    "reading": "라현",
+    "gender": "female"
+  },
+  {
+    "reading": "라희",
+    "gender": "female"
+  },
+  {
+    "reading": "래아",
+    "gender": "female"
+  },
+  {
+    "reading": "려원",
+    "gender": "female"
+  },
+  {
+    "reading": "려은",
+    "gender": "female"
+  },
+  {
+    "reading": "로건",
+    "gender": "male"
+  },
+  {
+    "reading": "로아",
+    "gender": "female"
+  },
+  {
+    "reading": "로운",
+    "gender": "neutral"
+  },
+  {
+    "reading": "로은",
+    "gender": "female"
+  },
+  {
+    "reading": "로이",
+    "gender": "neutral"
+  },
+  {
+    "reading": "로하",
+    "gender": "neutral"
+  },
+  {
+    "reading": "로한",
+    "gender": "male"
+  },
+  {
+    "reading": "로희",
+    "gender": "female"
+  },
+  {
+    "reading": "루나",
+    "gender": "female"
+  },
+  {
+    "reading": "루다",
+    "gender": "female"
+  },
+  {
+    "reading": "루리",
+    "gender": "female"
+  },
+  {
+    "reading": "루아",
+    "gender": "female"
+  },
+  {
+    "reading": "루하",
+    "gender": "female"
+  },
+  {
+    "reading": "루희",
+    "gender": "female"
+  },
+  {
+    "reading": "리나",
+    "gender": "female"
+  },
+  {
+    "reading": "리아",
+    "gender": "female"
+  },
+  {
+    "reading": "리안",
+    "gender": "neutral"
+  },
+  {
+    "reading": "리온",
+    "gender": "neutral"
+  },
+  {
+    "reading": "리우",
+    "gender": "neutral"
+  },
+  {
+    "reading": "리원",
+    "gender": "female"
+  },
+  {
+    "reading": "리윤",
+    "gender": "female"
+  },
+  {
+    "reading": "리하",
+    "gender": "female"
+  },
+  {
+    "reading": "리한",
+    "gender": "male"
+  },
+  {
+    "reading": "리현",
+    "gender": "female"
+  },
+  {
+    "reading": "리호",
+    "gender": "neutral"
+  },
+  {
+    "reading": "린아",
+    "gender": "female"
+  },
+  {
+    "reading": "명수",
+    "gender": "male"
+  },
+  {
+    "reading": "명재",
+    "gender": "male"
+  },
+  {
+    "reading": "명주",
+    "gender": "female"
+  },
+  {
+    "reading": "명준",
+    "gender": "male"
+  },
+  {
+    "reading": "명진",
+    "gender": "neutral"
+  },
+  {
+    "reading": "명훈",
+    "gender": "male"
+  },
+  {
+    "reading": "무결",
+    "gender": "male"
+  },
+  {
+    "reading": "무성",
+    "gender": "male"
+  },
+  {
+    "reading": "무진",
+    "gender": "male"
+  },
+  {
+    "reading": "문경",
+    "gender": "female"
+  },
+  {
+    "reading": "문성",
+    "gender": "male"
+  },
+  {
+    "reading": "문수",
+    "gender": "male"
+  },
+  {
+    "reading": "문정",
+    "gender": "female"
+  },
+  {
+    "reading": "미나",
+    "gender": "female"
+  },
+  {
+    "reading": "미래",
+    "gender": "female"
+  },
+  {
+    "reading": "미르",
+    "gender": "male"
+  },
+  {
+    "reading": "미서",
+    "gender": "female"
+  },
+  {
+    "reading": "미선",
+    "gender": "female"
+  },
+  {
+    "reading": "미소",
+    "gender": "female"
+  },
+  {
+    "reading": "미연",
+    "gender": "female"
+  },
+  {
+    "reading": "미영",
+    "gender": "female"
+  },
+  {
+    "reading": "미정",
+    "gender": "female"
+  },
+  {
+    "reading": "미주",
+    "gender": "female"
+  },
+  {
+    "reading": "미진",
+    "gender": "female"
+  },
+  {
+    "reading": "미화",
+    "gender": "female"
+  },
+  {
+    "reading": "민건",
+    "gender": "male"
+  },
+  {
+    "reading": "민결",
+    "gender": "male"
+  },
+  {
+    "reading": "민경",
+    "gender": "female"
+  },
+  {
+    "reading": "민교",
+    "gender": "male"
+  },
+  {
+    "reading": "민국",
+    "gender": "male"
+  },
+  {
+    "reading": "민규",
+    "gender": "male"
+  },
+  {
+    "reading": "민균",
+    "gender": "male"
+  },
+  {
+    "reading": "민기",
+    "gender": "male"
+  },
+  {
+    "reading": "민서",
+    "gender": "neutral"
+  },
+  {
+    "reading": "민석",
+    "gender": "male"
+  },
+  {
+    "reading": "민선",
+    "gender": "female"
+  },
+  {
+    "reading": "민설",
+    "gender": "female"
+  },
+  {
+    "reading": "민섭",
+    "gender": "male"
+  },
+  {
+    "reading": "민성",
+    "gender": "male"
+  },
+  {
+    "reading": "민소",
+    "gender": "female"
+  },
+  {
+    "reading": "민솔",
+    "gender": "female"
+  },
+  {
+    "reading": "민수",
+    "gender": "male"
+  },
+  {
+    "reading": "민승",
+    "gender": "male"
+  },
+  {
+    "reading": "민아",
+    "gender": "female"
+  },
+  {
+    "reading": "민영",
+    "gender": "neutral"
+  },
+  {
+    "reading": "민우",
+    "gender": "male"
+  },
+  {
+    "reading": "민욱",
+    "gender": "male"
+  },
+  {
+    "reading": "민유",
+    "gender": "female"
+  },
+  {
+    "reading": "민율",
+    "gender": "male"
+  },
+  {
+    "reading": "민재",
+    "gender": "neutral"
+  },
+  {
+    "reading": "민정",
+    "gender": "female"
+  },
+  {
+    "reading": "민제",
+    "gender": "male"
+  },
+  {
+    "reading": "민주",
+    "gender": "female"
+  },
+  {
+    "reading": "민준",
+    "gender": "male"
+  },
+  {
+    "reading": "민지",
+    "gender": "female"
+  },
+  {
+    "reading": "민진",
+    "gender": "female"
+  },
+  {
+    "reading": "민찬",
+    "gender": "male"
+  },
+  {
+    "reading": "민채",
+    "gender": "female"
+  },
+  {
+    "reading": "민철",
+    "gender": "male"
+  },
+  {
+    "reading": "민하",
+    "gender": "female"
+  },
+  {
+    "reading": "민혁",
+    "gender": "male"
+  },
+  {
+    "reading": "민형",
+    "gender": "male"
+  },
+  {
+    "reading": "민호",
+    "gender": "male"
+  },
+  {
+    "reading": "민후",
+    "gender": "male"
+  },
+  {
+    "reading": "민희",
+    "gender": "female"
+  },
+  {
+    "reading": "범서",
+    "gender": "male"
+  },
+  {
+    "reading": "범석",
+    "gender": "male"
+  },
+  {
+    "reading": "범수",
+    "gender": "male"
+  },
+  {
+    "reading": "범준",
+    "gender": "male"
+  },
+  {
+    "reading": "범진",
+    "gender": "male"
+  },
+  {
+    "reading": "별하",
+    "gender": "female"
+  },
+  {
+    "reading": "병민",
+    "gender": "male"
+  },
+  {
+    "reading": "병준",
+    "gender": "male"
+  },
+  {
+    "reading": "병진",
+    "gender": "male"
+  },
+  {
+    "reading": "병철",
+    "gender": "male"
+  },
+  {
+    "reading": "병현",
+    "gender": "male"
+  },
+  {
+    "reading": "보겸",
+    "gender": "male"
+  },
+  {
+    "reading": "보경",
+    "gender": "female"
+  },
+  {
+    "reading": "보나",
+    "gender": "female"
+  },
+  {
+    "reading": "보라",
+    "gender": "female"
+  },
+  {
+    "reading": "보람",
+    "gender": "female"
+  },
+  {
+    "reading": "보미",
+    "gender": "female"
+  },
+  {
+    "reading": "보민",
+    "gender": "neutral"
+  },
+  {
+    "reading": "보빈",
+    "gender": "female"
+  },
+  {
+    "reading": "보성",
+    "gender": "male"
+  },
+  {
+    "reading": "보영",
+    "gender": "female"
+  },
+  {
+    "reading": "보윤",
+    "gender": "female"
+  },
+  {
+    "reading": "보은",
+    "gender": "female"
+  },
+  {
+    "reading": "보현",
+    "gender": "female"
+  },
+  {
+    "reading": "부건",
+    "gender": "male"
+  },
+  {
+    "reading": "부겸",
+    "gender": "male"
+  },
+  {
+    "reading": "부성",
+    "gender": "male"
+  },
+  {
+    "reading": "사라",
+    "gender": "female"
+  },
+  {
+    "reading": "사랑",
+    "gender": "female"
+  },
+  {
+    "reading": "상민",
+    "gender": "male"
+  },
+  {
+    "reading": "상수",
+    "gender": "male"
+  },
+  {
+    "reading": "상우",
+    "gender": "male"
+  },
+  {
+    "reading": "상욱",
+    "gender": "male"
+  },
+  {
+    "reading": "상원",
+    "gender": "male"
+  },
+  {
+    "reading": "상윤",
+    "gender": "male"
+  },
+  {
+    "reading": "상준",
+    "gender": "male"
+  },
+  {
+    "reading": "상진",
+    "gender": "male"
+  },
+  {
+    "reading": "상혁",
+    "gender": "male"
+  },
+  {
+    "reading": "상현",
+    "gender": "male"
+  },
+  {
+    "reading": "상호",
+    "gender": "male"
+  },
+  {
+    "reading": "상훈",
+    "gender": "male"
+  },
+  {
+    "reading": "새론",
+    "gender": "female"
+  },
+  {
+    "reading": "새롬",
+    "gender": "female"
+  },
+  {
+    "reading": "새벽",
+    "gender": "female"
+  },
+  {
+    "reading": "새봄",
+    "gender": "female"
+  },
+  {
+    "reading": "서경",
+    "gender": "female"
+  },
+  {
+    "reading": "서린",
+    "gender": "female"
+  },
+  {
+    "reading": "서림",
+    "gender": "female"
+  },
+  {
+    "reading": "서범",
+    "gender": "male"
+  },
+  {
+    "reading": "서빈",
+    "gender": "neutral"
+  },
+  {
+    "reading": "서아",
+    "gender": "female"
+  },
+  {
+    "reading": "서안",
+    "gender": "neutral"
+  },
+  {
+    "reading": "서연",
+    "gender": "female"
+  },
+  {
+    "reading": "서영",
+    "gender": "female"
+  },
+  {
+    "reading": "서우",
+    "gender": "neutral"
+  },
+  {
+    "reading": "서원",
+    "gender": "neutral"
+  },
+  {
+    "reading": "서유",
+    "gender": "female"
+  },
+  {
+    "reading": "서윤",
+    "gender": "neutral"
+  },
+  {
+    "reading": "서율",
+    "gender": "neutral"
+  },
+  {
+    "reading": "서은",
+    "gender": "female"
+  },
+  {
+    "reading": "서이",
+    "gender": "female"
+  },
+  {
+    "reading": "서인",
+    "gender": "female"
+  },
+  {
+    "reading": "서정",
+    "gender": "female"
+  },
+  {
+    "reading": "서주",
+    "gender": "female"
+  },
+  {
+    "reading": "서준",
+    "gender": "male"
+  },
+  {
+    "reading": "서진",
+    "gender": "neutral"
+  },
+  {
+    "reading": "서찬",
+    "gender": "male"
+  },
+  {
+    "reading": "서하",
+    "gender": "neutral"
+  },
+  {
+    "reading": "서한",
+    "gender": "male"
+  },
+  {
+    "reading": "서현",
+    "gender": "neutral"
+  },
+  {
+    "reading": "서혜",
+    "gender": "female"
+  },
+  {
+    "reading": "서호",
+    "gender": "male"
+  },
+  {
+    "reading": "서환",
+    "gender": "male"
+  },
+  {
+    "reading": "서후",
+    "gender": "neutral"
+  },
+  {
+    "reading": "서휘",
+    "gender": "female"
+  },
+  {
+    "reading": "서희",
+    "gender": "female"
+  },
+  {
+    "reading": "석민",
+    "gender": "male"
+  },
+  {
+    "reading": "석원",
+    "gender": "male"
+  },
+  {
+    "reading": "석진",
+    "gender": "male"
+  },
+  {
+    "reading": "석현",
+    "gender": "male"
+  },
+  {
+    "reading": "석훈",
+    "gender": "male"
+  },
+  {
+    "reading": "선경",
+    "gender": "female"
+  },
+  {
+    "reading": "선미",
+    "gender": "female"
+  },
+  {
+    "reading": "선민",
+    "gender": "female"
+  },
+  {
+    "reading": "선빈",
+    "gender": "female"
+  },
+  {
+    "reading": "선아",
+    "gender": "female"
+  },
+  {
+    "reading": "선영",
+    "gender": "female"
+  },
+  {
+    "reading": "선옥",
+    "gender": "female"
+  },
+  {
+    "reading": "선우",
+    "gender": "neutral"
+  },
+  {
+    "reading": "선유",
+    "gender": "neutral"
+  },
+  {
+    "reading": "선율",
+    "gender": "neutral"
+  },
+  {
+    "reading": "선재",
+    "gender": "male"
+  },
+  {
+    "reading": "선정",
+    "gender": "female"
+  },
+  {
+    "reading": "선주",
+    "gender": "female"
+  },
+  {
+    "reading": "선준",
+    "gender": "male"
+  },
+  {
+    "reading": "선하",
+    "gender": "female"
+  },
+  {
+    "reading": "선혜",
+    "gender": "female"
+  },
+  {
+    "reading": "선호",
+    "gender": "male"
+  },
+  {
+    "reading": "선화",
+    "gender": "female"
+  },
+  {
+    "reading": "선희",
+    "gender": "female"
+  },
+  {
+    "reading": "설아",
+    "gender": "female"
+  },
+  {
+    "reading": "설연",
+    "gender": "female"
+  },
+  {
+    "reading": "설하",
+    "gender": "female"
+  },
+  {
+    "reading": "성규",
+    "gender": "male"
+  },
+  {
+    "reading": "성미",
+    "gender": "female"
+  },
+  {
+    "reading": "성민",
+    "gender": "neutral"
+  },
+  {
+    "reading": "성빈",
+    "gender": "neutral"
+  },
+  {
+    "reading": "성수",
+    "gender": "male"
+  },
+  {
+    "reading": "성식",
+    "gender": "male"
+  },
+  {
+    "reading": "성아",
+    "gender": "female"
+  },
+  {
+    "reading": "성연",
+    "gender": "neutral"
+  },
+  {
+    "reading": "성용",
+    "gender": "male"
+  },
+  {
+    "reading": "성우",
+    "gender": "male"
+  },
+  {
+    "reading": "성욱",
+    "gender": "male"
+  },
+  {
+    "reading": "성운",
+    "gender": "male"
+  },
+  {
+    "reading": "성원",
+    "gender": "male"
+  },
+  {
+    "reading": "성윤",
+    "gender": "neutral"
+  },
+  {
+    "reading": "성은",
+    "gender": "female"
+  },
+  {
+    "reading": "성일",
+    "gender": "male"
+  },
+  {
+    "reading": "성재",
+    "gender": "male"
+  },
+  {
+    "reading": "성제",
+    "gender": "male"
+  },
+  {
+    "reading": "성주",
+    "gender": "neutral"
+  },
+  {
+    "reading": "성준",
+    "gender": "male"
+  },
+  {
+    "reading": "성진",
+    "gender": "male"
+  },
+  {
+    "reading": "성찬",
+    "gender": "male"
+  },
+  {
+    "reading": "성태",
+    "gender": "male"
+  },
+  {
+    "reading": "성하",
+    "gender": "male"
+  },
+  {
+    "reading": "성현",
+    "gender": "male"
+  },
+  {
+    "reading": "성혜",
+    "gender": "female"
+  },
+  {
+    "reading": "성호",
+    "gender": "male"
+  },
+  {
+    "reading": "성환",
+    "gender": "male"
+  },
+  {
+    "reading": "성후",
+    "gender": "male"
+  },
+  {
+    "reading": "성훈",
+    "gender": "male"
+  },
+  {
+    "reading": "성희",
+    "gender": "female"
+  },
+  {
+    "reading": "세경",
+    "gender": "female"
+  },
+  {
+    "reading": "세나",
+    "gender": "female"
+  },
+  {
+    "reading": "세라",
+    "gender": "female"
+  },
+  {
+    "reading": "세령",
+    "gender": "female"
+  },
+  {
+    "reading": "세린",
+    "gender": "female"
+  },
+  {
+    "reading": "세미",
+    "gender": "female"
+  },
+  {
+    "reading": "세민",
+    "gender": "neutral"
+  },
+  {
+    "reading": "세빈",
+    "gender": "female"
+  },
+  {
+    "reading": "세아",
+    "gender": "female"
+  },
+  {
+    "reading": "세연",
+    "gender": "neutral"
+  },
+  {
+    "reading": "세영",
+    "gender": "neutral"
+  },
+  {
+    "reading": "세온",
+    "gender": "female"
+  },
+  {
+    "reading": "세원",
+    "gender": "neutral"
+  },
+  {
+    "reading": "세윤",
+    "gender": "neutral"
+  },
+  {
+    "reading": "세은",
+    "gender": "female"
+  },
+  {
+    "reading": "세이",
+    "gender": "female"
+  },
+  {
+    "reading": "세인",
+    "gender": "neutral"
+  },
+  {
+    "reading": "세정",
+    "gender": "female"
+  },
+  {
+    "reading": "세준",
+    "gender": "male"
+  },
+  {
+    "reading": "세진",
+    "gender": "neutral"
+  },
+  {
+    "reading": "세찬",
+    "gender": "male"
+  },
+  {
+    "reading": "세하",
+    "gender": "female"
+  },
+  {
+    "reading": "세현",
+    "gender": "neutral"
+  },
+  {
+    "reading": "세호",
+    "gender": "male"
+  },
+  {
+    "reading": "세환",
+    "gender": "male"
+  },
+  {
+    "reading": "세훈",
+    "gender": "male"
+  },
+  {
+    "reading": "세희",
+    "gender": "female"
+  },
+  {
+    "reading": "소담",
+    "gender": "female"
+  },
+  {
+    "reading": "소라",
+    "gender": "female"
+  },
+  {
+    "reading": "소린",
+    "gender": "female"
+  },
+  {
+    "reading": "소망",
+    "gender": "female"
+  },
+  {
+    "reading": "소미",
+    "gender": "female"
+  },
+  {
+    "reading": "소민",
+    "gender": "female"
+  },
+  {
+    "reading": "소연",
+    "gender": "female"
+  },
+  {
+    "reading": "소영",
+    "gender": "female"
+  },
+  {
+    "reading": "소예",
+    "gender": "female"
+  },
+  {
+    "reading": "소원",
+    "gender": "female"
+  },
+  {
+    "reading": "소유",
+    "gender": "female"
+  },
+  {
+    "reading": "소윤",
+    "gender": "female"
+  },
+  {
+    "reading": "소율",
+    "gender": "female"
+  },
+  {
+    "reading": "소은",
+    "gender": "female"
+  },
+  {
+    "reading": "소을",
+    "gender": "female"
+  },
+  {
+    "reading": "소이",
+    "gender": "female"
+  },
+  {
+    "reading": "소정",
+    "gender": "female"
+  },
+  {
+    "reading": "소진",
+    "gender": "female"
+  },
+  {
+    "reading": "소현",
+    "gender": "female"
+  },
+  {
+    "reading": "소희",
+    "gender": "female"
+  },
+  {
+    "reading": "송연",
+    "gender": "female"
+  },
+  {
+    "reading": "송이",
+    "gender": "female"
+  },
+  {
+    "reading": "송주",
+    "gender": "female"
+  },
+  {
+    "reading": "송하",
+    "gender": "female"
+  },
+  {
+    "reading": "송현",
+    "gender": "female"
+  },
+  {
+    "reading": "송희",
+    "gender": "female"
+  },
+  {
+    "reading": "수경",
+    "gender": "female"
+  },
+  {
+    "reading": "수린",
+    "gender": "female"
+  },
+  {
+    "reading": "수미",
+    "gender": "female"
+  },
+  {
+    "reading": "수민",
+    "gender": "neutral"
+  },
+  {
+    "reading": "수빈",
+    "gender": "neutral"
+  },
+  {
+    "reading": "수아",
+    "gender": "female"
+  },
+  {
+    "reading": "수안",
+    "gender": "female"
+  },
+  {
+    "reading": "수연",
+    "gender": "female"
+  },
+  {
+    "reading": "수영",
+    "gender": "neutral"
+  },
+  {
+    "reading": "수오",
+    "gender": "male"
+  },
+  {
+    "reading": "수인",
+    "gender": "neutral"
+  },
+  {
+    "reading": "수정",
+    "gender": "female"
+  },
+  {
+    "reading": "수지",
+    "gender": "female"
+  },
+  {
+    "reading": "수진",
+    "gender": "female"
+  },
+  {
+    "reading": "수찬",
+    "gender": "male"
+  },
+  {
+    "reading": "수하",
+    "gender": "female"
+  },
+  {
+    "reading": "수한",
+    "gender": "male"
+  },
+  {
+    "reading": "수혁",
+    "gender": "male"
+  },
+  {
+    "reading": "수현",
+    "gender": "neutral"
+  },
+  {
+    "reading": "수호",
+    "gender": "male"
+  },
+  {
+    "reading": "수환",
+    "gender": "male"
+  },
+  {
+    "reading": "수희",
+    "gender": "female"
+  },
+  {
+    "reading": "슬비",
+    "gender": "female"
+  },
+  {
+    "reading": "슬아",
+    "gender": "female"
+  },
+  {
+    "reading": "승기",
+    "gender": "male"
+  },
+  {
+    "reading": "승리",
+    "gender": "neutral"
+  },
+  {
+    "reading": "승민",
+    "gender": "male"
+  },
+  {
+    "reading": "승범",
+    "gender": "male"
+  },
+  {
+    "reading": "승빈",
+    "gender": "male"
+  },
+  {
+    "reading": "승수",
+    "gender": "male"
+  },
+  {
+    "reading": "승아",
+    "gender": "female"
+  },
+  {
+    "reading": "승연",
+    "gender": "neutral"
+  },
+  {
+    "reading": "승완",
+    "gender": "male"
+  },
+  {
+    "reading": "승우",
+    "gender": "male"
+  },
+  {
+    "reading": "승원",
+    "gender": "male"
+  },
+  {
+    "reading": "승유",
+    "gender": "neutral"
+  },
+  {
+    "reading": "승윤",
+    "gender": "male"
+  },
+  {
+    "reading": "승은",
+    "gender": "female"
+  },
+  {
+    "reading": "승재",
+    "gender": "male"
+  },
+  {
+    "reading": "승제",
+    "gender": "male"
+  },
+  {
+    "reading": "승주",
+    "gender": "neutral"
+  },
+  {
+    "reading": "승준",
+    "gender": "male"
+  },
+  {
+    "reading": "승진",
+    "gender": "male"
+  },
+  {
+    "reading": "승찬",
+    "gender": "male"
+  },
+  {
+    "reading": "승철",
+    "gender": "male"
+  },
+  {
+    "reading": "승태",
+    "gender": "male"
+  },
+  {
+    "reading": "승한",
+    "gender": "male"
+  },
+  {
+    "reading": "승헌",
+    "gender": "male"
+  },
+  {
+    "reading": "승혁",
+    "gender": "male"
+  },
+  {
+    "reading": "승현",
+    "gender": "neutral"
+  },
+  {
+    "reading": "승혜",
+    "gender": "female"
+  },
+  {
+    "reading": "승호",
+    "gender": "male"
+  },
+  {
+    "reading": "승환",
+    "gender": "male"
+  },
+  {
+    "reading": "승후",
+    "gender": "male"
+  },
+  {
+    "reading": "승훈",
+    "gender": "male"
+  },
+  {
+    "reading": "승희",
+    "gender": "female"
+  },
+  {
+    "reading": "시아",
+    "gender": "female"
+  },
+  {
+    "reading": "시안",
+    "gender": "neutral"
+  },
+  {
+    "reading": "시언",
+    "gender": "neutral"
+  },
+  {
+    "reading": "시연",
+    "gender": "female"
+  },
+  {
+    "reading": "시영",
+    "gender": "neutral"
+  },
+  {
+    "reading": "시온",
+    "gender": "neutral"
+  },
+  {
+    "reading": "시완",
+    "gender": "male"
+  },
+  {
+    "reading": "시우",
+    "gender": "neutral"
+  },
+  {
+    "reading": "시원",
+    "gender": "neutral"
+  },
+  {
+    "reading": "시유",
+    "gender": "female"
+  },
+  {
+    "reading": "시윤",
+    "gender": "neutral"
+  },
+  {
+    "reading": "시율",
+    "gender": "neutral"
+  },
+  {
+    "reading": "시은",
+    "gender": "female"
+  },
+  {
+    "reading": "시준",
+    "gender": "male"
+  },
+  {
+    "reading": "시하",
+    "gender": "neutral"
+  },
+  {
+    "reading": "시한",
+    "gender": "male"
+  },
+  {
+    "reading": "시헌",
+    "gender": "male"
+  },
+  {
+    "reading": "시혁",
+    "gender": "male"
+  },
+  {
+    "reading": "시현",
+    "gender": "neutral"
+  },
+  {
+    "reading": "시형",
+    "gender": "male"
+  },
+  {
+    "reading": "시호",
+    "gender": "neutral"
+  },
+  {
+    "reading": "시환",
+    "gender": "male"
+  },
+  {
+    "reading": "시후",
+    "gender": "male"
+  },
+  {
+    "reading": "시훈",
+    "gender": "male"
+  },
+  {
+    "reading": "신영",
+    "gender": "female"
+  },
+  {
+    "reading": "신우",
+    "gender": "male"
+  },
+  {
+    "reading": "신혜",
+    "gender": "female"
+  },
+  {
+    "reading": "신후",
+    "gender": "male"
+  },
+  {
+    "reading": "아라",
+    "gender": "female"
+  },
+  {
+    "reading": "아란",
+    "gender": "female"
+  },
+  {
+    "reading": "아람",
+    "gender": "female"
+  },
+  {
+    "reading": "아름",
+    "gender": "female"
+  },
+  {
+    "reading": "아리",
+    "gender": "female"
+  },
+  {
+    "reading": "아린",
+    "gender": "female"
+  },
+  {
+    "reading": "아림",
+    "gender": "female"
+  },
+  {
+    "reading": "아빈",
+    "gender": "female"
+  },
+  {
+    "reading": "아연",
+    "gender": "female"
+  },
+  {
+    "reading": "아영",
+    "gender": "female"
+  },
+  {
+    "reading": "아윤",
+    "gender": "female"
+  },
+  {
+    "reading": "아율",
+    "gender": "female"
+  },
+  {
+    "reading": "아인",
+    "gender": "neutral"
+  },
+  {
+    "reading": "아정",
+    "gender": "female"
+  },
+  {
+    "reading": "아준",
+    "gender": "male"
+  },
+  {
+    "reading": "아진",
+    "gender": "female"
+  },
+  {
+    "reading": "아현",
+    "gender": "female"
+  },
+  {
+    "reading": "안나",
+    "gender": "female"
+  },
+  {
+    "reading": "애나",
+    "gender": "female"
+  },
+  {
+    "reading": "애리",
+    "gender": "female"
+  },
+  {
+    "reading": "애린",
+    "gender": "female"
+  },
+  {
+    "reading": "여름",
+    "gender": "female"
+  },
+  {
+    "reading": "여울",
+    "gender": "female"
+  },
+  {
+    "reading": "여원",
+    "gender": "female"
+  },
+  {
+    "reading": "여은",
+    "gender": "female"
+  },
+  {
+    "reading": "여정",
+    "gender": "female"
+  },
+  {
+    "reading": "여준",
+    "gender": "male"
+  },
+  {
+    "reading": "여진",
+    "gender": "female"
+  },
+  {
+    "reading": "연경",
+    "gender": "female"
+  },
+  {
+    "reading": "연서",
+    "gender": "female"
+  },
+  {
+    "reading": "연수",
+    "gender": "neutral"
+  },
+  {
+    "reading": "연승",
+    "gender": "male"
+  },
+  {
+    "reading": "연아",
+    "gender": "female"
+  },
+  {
+    "reading": "연우",
+    "gender": "neutral"
+  },
+  {
+    "reading": "연재",
+    "gender": "neutral"
+  },
+  {
+    "reading": "연정",
+    "gender": "female"
+  },
+  {
+    "reading": "연주",
+    "gender": "female"
+  },
+  {
+    "reading": "연준",
+    "gender": "male"
+  },
+  {
+    "reading": "연지",
+    "gender": "female"
+  },
+  {
+    "reading": "연진",
+    "gender": "female"
+  },
+  {
+    "reading": "연호",
+    "gender": "male"
+  },
+  {
+    "reading": "연화",
+    "gender": "female"
+  },
+  {
+    "reading": "연후",
+    "gender": "male"
+  },
+  {
+    "reading": "연희",
+    "gender": "female"
+  },
+  {
+    "reading": "영광",
+    "gender": "male"
+  },
+  {
+    "reading": "영근",
+    "gender": "male"
+  },
+  {
+    "reading": "영대",
+    "gender": "male"
+  },
+  {
+    "reading": "영란",
+    "gender": "female"
+  },
+  {
+    "reading": "영민",
+    "gender": "male"
+  },
+  {
+    "reading": "영서",
+    "gender": "female"
+  },
+  {
+    "reading": "영석",
+    "gender": "male"
+  },
+  {
+    "reading": "영선",
+    "gender": "female"
+  },
+  {
+    "reading": "영수",
+    "gender": "male"
+  },
+  {
+    "reading": "영아",
+    "gender": "female"
+  },
+  {
+    "reading": "영우",
+    "gender": "male"
+  },
+  {
+    "reading": "영운",
+    "gender": "male"
+  },
+  {
+    "reading": "영은",
+    "gender": "female"
+  },
+  {
+    "reading": "영인",
+    "gender": "female"
+  },
+  {
+    "reading": "영재",
+    "gender": "male"
+  },
+  {
+    "reading": "영주",
+    "gender": "neutral"
+  },
+  {
+    "reading": "영준",
+    "gender": "male"
+  },
+  {
+    "reading": "영지",
+    "gender": "female"
+  },
+  {
+    "reading": "영진",
+    "gender": "male"
+  },
+  {
+    "reading": "영찬",
+    "gender": "male"
+  },
+  {
+    "reading": "영채",
+    "gender": "female"
+  },
+  {
+    "reading": "영철",
+    "gender": "male"
+  },
+  {
+    "reading": "영현",
+    "gender": "neutral"
+  },
+  {
+    "reading": "영호",
+    "gender": "male"
+  },
+  {
+    "reading": "영화",
+    "gender": "female"
+  },
+  {
+    "reading": "영환",
+    "gender": "male"
+  },
+  {
+    "reading": "영후",
+    "gender": "male"
+  },
+  {
+    "reading": "영훈",
+    "gender": "male"
+  },
+  {
+    "reading": "영희",
+    "gender": "female"
+  },
+  {
+    "reading": "예건",
+    "gender": "male"
+  },
+  {
+    "reading": "예경",
+    "gender": "female"
+  },
+  {
+    "reading": "예나",
+    "gender": "female"
+  },
+  {
+    "reading": "예담",
+    "gender": "female"
+  },
+  {
+    "reading": "예라",
+    "gender": "female"
+  },
+  {
+    "reading": "예람",
+    "gender": "female"
+  },
+  {
+    "reading": "예랑",
+    "gender": "female"
+  },
+  {
+    "reading": "예령",
+    "gender": "female"
+  },
+  {
+    "reading": "예리",
+    "gender": "female"
+  },
+  {
+    "reading": "예린",
+    "gender": "female"
+  },
+  {
+    "reading": "예림",
+    "gender": "female"
+  },
+  {
+    "reading": "예봄",
+    "gender": "female"
+  },
+  {
+    "reading": "예빈",
+    "gender": "female"
+  },
+  {
+    "reading": "예서",
+    "gender": "female"
+  },
+  {
+    "reading": "예설",
+    "gender": "female"
+  },
+  {
+    "reading": "예성",
+    "gender": "male"
+  },
+  {
+    "reading": "예솔",
+    "gender": "female"
+  },
+  {
+    "reading": "예솜",
+    "gender": "female"
+  },
+  {
+    "reading": "예송",
+    "gender": "female"
+  },
+  {
+    "reading": "예슬",
+    "gender": "female"
+  },
+  {
+    "reading": "예승",
+    "gender": "neutral"
+  },
+  {
+    "reading": "예안",
+    "gender": "female"
+  },
+  {
+    "reading": "예영",
+    "gender": "female"
+  },
+  {
+    "reading": "예온",
+    "gender": "female"
+  },
+  {
+    "reading": "예원",
+    "gender": "female"
+  },
+  {
+    "reading": "예윤",
+    "gender": "female"
+  },
+  {
+    "reading": "예은",
+    "gender": "female"
+  },
+  {
+    "reading": "예음",
+    "gender": "female"
+  },
+  {
+    "reading": "예인",
+    "gender": "female"
+  },
+  {
+    "reading": "예주",
+    "gender": "female"
+  },
+  {
+    "reading": "예준",
+    "gender": "male"
+  },
+  {
+    "reading": "예지",
+    "gender": "female"
+  },
+  {
+    "reading": "예진",
+    "gender": "female"
+  },
+  {
+    "reading": "예찬",
+    "gender": "male"
+  },
+  {
+    "reading": "예현",
+    "gender": "female"
+  },
+  {
+    "reading": "예훈",
+    "gender": "male"
+  },
+  {
+    "reading": "온유",
+    "gender": "neutral"
+  },
+  {
+    "reading": "요셉",
+    "gender": "male"
+  },
+  {
+    "reading": "요한",
+    "gender": "male"
+  },
+  {
+    "reading": "용석",
+    "gender": "male"
+  },
+  {
+    "reading": "용수",
+    "gender": "male"
+  },
+  {
+    "reading": "용우",
+    "gender": "male"
+  },
+  {
+    "reading": "용주",
+    "gender": "male"
+  },
+  {
+    "reading": "용준",
+    "gender": "male"
+  },
+  {
+    "reading": "용진",
+    "gender": "male"
+  },
+  {
+    "reading": "용철",
+    "gender": "male"
+  },
+  {
+    "reading": "용현",
+    "gender": "male"
+  },
+  {
+    "reading": "용호",
+    "gender": "male"
+  },
+  {
+    "reading": "우리",
+    "gender": "female"
+  },
+  {
+    "reading": "우림",
+    "gender": "female"
+  },
+  {
+    "reading": "우민",
+    "gender": "male"
+  },
+  {
+    "reading": "우빈",
+    "gender": "male"
+  },
+  {
+    "reading": "우석",
+    "gender": "male"
+  },
+  {
+    "reading": "우성",
+    "gender": "male"
+  },
+  {
+    "reading": "우솔",
+    "gender": "male"
+  },
+  {
+    "reading": "우영",
+    "gender": "male"
+  },
+  {
+    "reading": "우재",
+    "gender": "male"
+  },
+  {
+    "reading": "우정",
+    "gender": "female"
+  },
+  {
+    "reading": "우주",
+    "gender": "neutral"
+  },
+  {
+    "reading": "우준",
+    "gender": "male"
+  },
+  {
+    "reading": "우진",
+    "gender": "neutral"
+  },
+  {
+    "reading": "우찬",
+    "gender": "male"
+  },
+  {
+    "reading": "우혁",
+    "gender": "male"
+  },
+  {
+    "reading": "우현",
+    "gender": "male"
+  },
+  {
+    "reading": "원규",
+    "gender": "male"
+  },
+  {
+    "reading": "원석",
+    "gender": "male"
+  },
+  {
+    "reading": "원영",
+    "gender": "male"
+  },
+  {
+    "reading": "원우",
+    "gender": "male"
+  },
+  {
+    "reading": "원일",
+    "gender": "male"
+  },
+  {
+    "reading": "원재",
+    "gender": "male"
+  },
+  {
+    "reading": "원준",
+    "gender": "male"
+  },
+  {
+    "reading": "원혁",
+    "gender": "male"
+  },
+  {
+    "reading": "원호",
+    "gender": "male"
+  },
+  {
+    "reading": "원희",
+    "gender": "female"
+  },
+  {
+    "reading": "유건",
+    "gender": "male"
+  },
+  {
+    "reading": "유겸",
+    "gender": "male"
+  },
+  {
+    "reading": "유경",
+    "gender": "female"
+  },
+  {
+    "reading": "유근",
+    "gender": "male"
+  },
+  {
+    "reading": "유나",
+    "gender": "female"
+  },
+  {
+    "reading": "유담",
+    "gender": "neutral"
+  },
+  {
+    "reading": "유라",
+    "gender": "female"
+  },
+  {
+    "reading": "유리",
+    "gender": "female"
+  },
+  {
+    "reading": "유림",
+    "gender": "female"
+  },
+  {
+    "reading": "유미",
+    "gender": "female"
+  },
+  {
+    "reading": "유민",
+    "gender": "neutral"
+  },
+  {
+    "reading": "유비",
+    "gender": "female"
+  },
+  {
+    "reading": "유빈",
+    "gender": "neutral"
+  },
+  {
+    "reading": "유석",
+    "gender": "male"
+  },
+  {
+    "reading": "유선",
+    "gender": "female"
+  },
+  {
+    "reading": "유섭",
+    "gender": "male"
+  },
+  {
+    "reading": "유성",
+    "gender": "male"
+  },
+  {
+    "reading": "유솔",
+    "gender": "female"
+  },
+  {
+    "reading": "유승",
+    "gender": "male"
+  },
+  {
+    "reading": "유신",
+    "gender": "male"
+  },
+  {
+    "reading": "유아",
+    "gender": "female"
+  },
+  {
+    "reading": "유안",
+    "gender": "neutral"
+  },
+  {
+    "reading": "유연",
+    "gender": "female"
+  },
+  {
+    "reading": "유영",
+    "gender": "female"
+  },
+  {
+    "reading": "유은",
+    "gender": "female"
+  },
+  {
+    "reading": "유이",
+    "gender": "female"
+  },
+  {
+    "reading": "유정",
+    "gender": "female"
+  },
+  {
+    "reading": "유주",
+    "gender": "female"
+  },
+  {
+    "reading": "유준",
+    "gender": "male"
+  },
+  {
+    "reading": "유지",
+    "gender": "female"
+  },
+  {
+    "reading": "유진",
+    "gender": "neutral"
+  },
+  {
+    "reading": "유찬",
+    "gender": "male"
+  },
+  {
+    "reading": "유하",
+    "gender": "neutral"
+  },
+  {
+    "reading": "유현",
+    "gender": "neutral"
+  },
+  {
+    "reading": "유호",
+    "gender": "male"
+  },
+  {
+    "reading": "유환",
+    "gender": "male"
+  },
+  {
+    "reading": "유희",
+    "gender": "female"
+  },
+  {
+    "reading": "윤건",
+    "gender": "male"
+  },
+  {
+    "reading": "윤겸",
+    "gender": "neutral"
+  },
+  {
+    "reading": "윤경",
+    "gender": "female"
+  },
+  {
+    "reading": "윤미",
+    "gender": "female"
+  },
+  {
+    "reading": "윤상",
+    "gender": "male"
+  },
+  {
+    "reading": "윤서",
+    "gender": "neutral"
+  },
+  {
+    "reading": "윤석",
+    "gender": "male"
+  },
+  {
+    "reading": "윤선",
+    "gender": "female"
+  },
+  {
+    "reading": "윤설",
+    "gender": "female"
+  },
+  {
+    "reading": "윤성",
+    "gender": "neutral"
+  },
+  {
+    "reading": "윤솔",
+    "gender": "female"
+  },
+  {
+    "reading": "윤수",
+    "gender": "male"
+  },
+  {
+    "reading": "윤슬",
+    "gender": "female"
+  },
+  {
+    "reading": "윤아",
+    "gender": "female"
+  },
+  {
+    "reading": "윤영",
+    "gender": "female"
+  },
+  {
+    "reading": "윤오",
+    "gender": "male"
+  },
+  {
+    "reading": "윤우",
+    "gender": "male"
+  },
+  {
+    "reading": "윤이",
+    "gender": "female"
+  },
+  {
+    "reading": "윤재",
+    "gender": "male"
+  },
+  {
+    "reading": "윤정",
+    "gender": "female"
+  },
+  {
+    "reading": "윤제",
+    "gender": "neutral"
+  },
+  {
+    "reading": "윤주",
+    "gender": "female"
+  },
+  {
+    "reading": "윤준",
+    "gender": "male"
+  },
+  {
+    "reading": "윤지",
+    "gender": "female"
+  },
+  {
+    "reading": "윤진",
+    "gender": "female"
+  },
+  {
+    "reading": "윤찬",
+    "gender": "male"
+  },
+  {
+    "reading": "윤채",
+    "gender": "female"
+  },
+  {
+    "reading": "윤태",
+    "gender": "male"
+  },
+  {
+    "reading": "윤하",
+    "gender": "female"
+  },
+  {
+    "reading": "윤한",
+    "gender": "male"
+  },
+  {
+    "reading": "윤혁",
+    "gender": "male"
+  },
+  {
+    "reading": "윤호",
+    "gender": "male"
+  },
+  {
+    "reading": "윤환",
+    "gender": "male"
+  },
+  {
+    "reading": "윤후",
+    "gender": "male"
+  },
+  {
+    "reading": "윤희",
+    "gender": "female"
+  },
+  {
+    "reading": "율아",
+    "gender": "female"
+  },
+  {
+    "reading": "율하",
+    "gender": "female"
+  },
+  {
+    "reading": "율희",
+    "gender": "female"
+  },
+  {
+    "reading": "은결",
+    "gender": "male"
+  },
+  {
+    "reading": "은겸",
+    "gender": "female"
+  },
+  {
+    "reading": "은경",
+    "gender": "female"
+  },
+  {
+    "reading": "은교",
+    "gender": "female"
+  },
+  {
+    "reading": "은규",
+    "gender": "male"
+  },
+  {
+    "reading": "은별",
+    "gender": "female"
+  },
+  {
+    "reading": "은비",
+    "gender": "female"
+  },
+  {
+    "reading": "은빈",
+    "gender": "female"
+  },
+  {
+    "reading": "은서",
+    "gender": "female"
+  },
+  {
+    "reading": "은석",
+    "gender": "male"
+  },
+  {
+    "reading": "은선",
+    "gender": "female"
+  },
+  {
+    "reading": "은설",
+    "gender": "female"
+  },
+  {
+    "reading": "은성",
+    "gender": "neutral"
+  },
+  {
+    "reading": "은세",
+    "gender": "female"
+  },
+  {
+    "reading": "은솔",
+    "gender": "female"
+  },
+  {
+    "reading": "은수",
+    "gender": "neutral"
+  },
+  {
+    "reading": "은숙",
+    "gender": "female"
+  },
+  {
+    "reading": "은아",
+    "gender": "female"
+  },
+  {
+    "reading": "은영",
+    "gender": "female"
+  },
+  {
+    "reading": "은오",
+    "gender": "male"
+  },
+  {
+    "reading": "은우",
+    "gender": "neutral"
+  },
+  {
+    "reading": "은유",
+    "gender": "female"
+  },
+  {
+    "reading": "은율",
+    "gender": "neutral"
+  },
+  {
+    "reading": "은재",
+    "gender": "neutral"
+  },
+  {
+    "reading": "은정",
+    "gender": "female"
+  },
+  {
+    "reading": "은제",
+    "gender": "female"
+  },
+  {
+    "reading": "은주",
+    "gender": "female"
+  },
+  {
+    "reading": "은준",
+    "gender": "male"
+  },
+  {
+    "reading": "은지",
+    "gender": "female"
+  },
+  {
+    "reading": "은진",
+    "gender": "female"
+  },
+  {
+    "reading": "은찬",
+    "gender": "male"
+  },
+  {
+    "reading": "은채",
+    "gender": "female"
+  },
+  {
+    "reading": "은하",
+    "gender": "female"
+  },
+  {
+    "reading": "은혁",
+    "gender": "male"
+  },
+  {
+    "reading": "은혜",
+    "gender": "female"
+  },
+  {
+    "reading": "은호",
+    "gender": "neutral"
+  },
+  {
+    "reading": "은후",
+    "gender": "neutral"
+  },
+  {
+    "reading": "은희",
+    "gender": "female"
+  },
+  {
+    "reading": "의준",
+    "gender": "male"
+  },
+  {
+    "reading": "의진",
+    "gender": "neutral"
+  },
+  {
+    "reading": "의현",
+    "gender": "male"
+  },
+  {
+    "reading": "이건",
+    "gender": "male"
+  },
+  {
+    "reading": "이나",
+    "gender": "female"
+  },
+  {
+    "reading": "이담",
+    "gender": "female"
+  },
+  {
+    "reading": "이도",
+    "gender": "male"
+  },
+  {
+    "reading": "이든",
+    "gender": "neutral"
+  },
+  {
+    "reading": "이레",
+    "gender": "female"
+  },
+  {
+    "reading": "이봄",
+    "gender": "female"
+  },
+  {
+    "reading": "이서",
+    "gender": "female"
+  },
+  {
+    "reading": "이솔",
+    "gender": "female"
+  },
+  {
+    "reading": "이솜",
+    "gender": "female"
+  },
+  {
+    "reading": "이수",
+    "gender": "neutral"
+  },
+  {
+    "reading": "이안",
+    "gender": "neutral"
+  },
+  {
+    "reading": "이엘",
+    "gender": "female"
+  },
+  {
+    "reading": "이원",
+    "gender": "female"
+  },
+  {
+    "reading": "이은",
+    "gender": "female"
+  },
+  {
+    "reading": "이정",
+    "gender": "female"
+  },
+  {
+    "reading": "이준",
+    "gender": "male"
+  },
+  {
+    "reading": "이진",
+    "gender": "female"
+  },
+  {
+    "reading": "이찬",
+    "gender": "male"
+  },
+  {
+    "reading": "이한",
+    "gender": "male"
+  },
+  {
+    "reading": "이현",
+    "gender": "neutral"
+  },
+  {
+    "reading": "이환",
+    "gender": "male"
+  },
+  {
+    "reading": "인규",
+    "gender": "male"
+  },
+  {
+    "reading": "인서",
+    "gender": "female"
+  },
+  {
+    "reading": "인성",
+    "gender": "male"
+  },
+  {
+    "reading": "인수",
+    "gender": "male"
+  },
+  {
+    "reading": "인아",
+    "gender": "female"
+  },
+  {
+    "reading": "인애",
+    "gender": "female"
+  },
+  {
+    "reading": "인영",
+    "gender": "neutral"
+  },
+  {
+    "reading": "인우",
+    "gender": "male"
+  },
+  {
+    "reading": "인준",
+    "gender": "male"
+  },
+  {
+    "reading": "인하",
+    "gender": "female"
+  },
+  {
+    "reading": "인혁",
+    "gender": "male"
+  },
+  {
+    "reading": "인혜",
+    "gender": "female"
+  },
+  {
+    "reading": "인호",
+    "gender": "male"
+  },
+  {
+    "reading": "자인",
+    "gender": "female"
+  },
+  {
+    "reading": "장원",
+    "gender": "male"
+  },
+  {
+    "reading": "장현",
+    "gender": "male"
+  },
+  {
+    "reading": "재경",
+    "gender": "neutral"
+  },
+  {
+    "reading": "재민",
+    "gender": "male"
+  },
+  {
+    "reading": "재백",
+    "gender": "male"
+  },
+  {
+    "reading": "재범",
+    "gender": "male"
+  },
+  {
+    "reading": "재빈",
+    "gender": "male"
+  },
+  {
+    "reading": "재서",
+    "gender": "male"
+  },
+  {
+    "reading": "재성",
+    "gender": "male"
+  },
+  {
+    "reading": "재승",
+    "gender": "male"
+  },
+  {
+    "reading": "재아",
+    "gender": "female"
+  },
+  {
+    "reading": "재연",
+    "gender": "neutral"
+  },
+  {
+    "reading": "재영",
+    "gender": "neutral"
+  },
+  {
+    "reading": "재완",
+    "gender": "male"
+  },
+  {
+    "reading": "재용",
+    "gender": "male"
+  },
+  {
+    "reading": "재우",
+    "gender": "male"
+  },
+  {
+    "reading": "재욱",
+    "gender": "male"
+  },
+  {
+    "reading": "재운",
+    "gender": "male"
+  },
+  {
+    "reading": "재웅",
+    "gender": "male"
+  },
+  {
+    "reading": "재원",
+    "gender": "male"
+  },
+  {
+    "reading": "재윤",
+    "gender": "neutral"
+  },
+  {
+    "reading": "재율",
+    "gender": "male"
+  },
+  {
+    "reading": "재은",
+    "gender": "female"
+  },
+  {
+    "reading": "재이",
+    "gender": "neutral"
+  },
+  {
+    "reading": "재익",
+    "gender": "male"
+  },
+  {
+    "reading": "재인",
+    "gender": "neutral"
+  },
+  {
+    "reading": "재준",
+    "gender": "male"
+  },
+  {
+    "reading": "재진",
+    "gender": "male"
+  },
+  {
+    "reading": "재하",
+    "gender": "male"
+  },
+  {
+    "reading": "재헌",
+    "gender": "male"
+  },
+  {
+    "reading": "재혁",
+    "gender": "male"
+  },
+  {
+    "reading": "재현",
+    "gender": "male"
+  },
+  {
+    "reading": "재형",
+    "gender": "male"
+  },
+  {
+    "reading": "재호",
+    "gender": "male"
+  },
+  {
+    "reading": "재환",
+    "gender": "male"
+  },
+  {
+    "reading": "재후",
+    "gender": "male"
+  },
+  {
+    "reading": "재훈",
+    "gender": "male"
+  },
+  {
+    "reading": "재희",
+    "gender": "neutral"
+  },
+  {
+    "reading": "정규",
+    "gender": "male"
+  },
+  {
+    "reading": "정민",
+    "gender": "neutral"
+  },
+  {
+    "reading": "정빈",
+    "gender": "neutral"
+  },
+  {
+    "reading": "정석",
+    "gender": "male"
+  },
+  {
+    "reading": "정선",
+    "gender": "female"
+  },
+  {
+    "reading": "정수",
+    "gender": "male"
+  },
+  {
+    "reading": "정아",
+    "gender": "female"
+  },
+  {
+    "reading": "정안",
+    "gender": "female"
+  },
+  {
+    "reading": "정연",
+    "gender": "female"
+  },
+  {
+    "reading": "정우",
+    "gender": "male"
+  },
+  {
+    "reading": "정욱",
+    "gender": "male"
+  },
+  {
+    "reading": "정운",
+    "gender": "male"
+  },
+  {
+    "reading": "정원",
+    "gender": "neutral"
+  },
+  {
+    "reading": "정윤",
+    "gender": "neutral"
+  },
+  {
+    "reading": "정은",
+    "gender": "female"
+  },
+  {
+    "reading": "정인",
+    "gender": "neutral"
+  },
+  {
+    "reading": "정일",
+    "gender": "male"
+  },
+  {
+    "reading": "정재",
+    "gender": "male"
+  },
+  {
+    "reading": "정주",
+    "gender": "male"
+  },
+  {
+    "reading": "정진",
+    "gender": "male"
+  },
+  {
+    "reading": "정태",
+    "gender": "male"
+  },
+  {
+    "reading": "정하",
+    "gender": "female"
+  },
+  {
+    "reading": "정한",
+    "gender": "male"
+  },
+  {
+    "reading": "정혁",
+    "gender": "male"
+  },
+  {
+    "reading": "정현",
+    "gender": "neutral"
+  },
+  {
+    "reading": "정호",
+    "gender": "male"
+  },
+  {
+    "reading": "정화",
+    "gender": "female"
+  },
+  {
+    "reading": "정환",
+    "gender": "male"
+  },
+  {
+    "reading": "정후",
+    "gender": "male"
+  },
+  {
+    "reading": "정훈",
+    "gender": "male"
+  },
+  {
+    "reading": "정희",
+    "gender": "female"
+  },
+  {
+    "reading": "제나",
+    "gender": "female"
+  },
+  {
+    "reading": "제니",
+    "gender": "female"
+  },
+  {
+    "reading": "제영",
+    "gender": "male"
+  },
+  {
+    "reading": "제우",
+    "gender": "male"
+  },
+  {
+    "reading": "제이",
+    "gender": "female"
+  },
+  {
+    "reading": "제인",
+    "gender": "female"
+  },
+  {
+    "reading": "제하",
+    "gender": "male"
+  },
+  {
+    "reading": "제현",
+    "gender": "male"
+  },
+  {
+    "reading": "조은",
+    "gender": "female"
+  },
+  {
+    "reading": "종민",
+    "gender": "male"
+  },
+  {
+    "reading": "종석",
+    "gender": "male"
+  },
+  {
+    "reading": "종우",
+    "gender": "male"
+  },
+  {
+    "reading": "종원",
+    "gender": "male"
+  },
+  {
+    "reading": "종윤",
+    "gender": "male"
+  },
+  {
+    "reading": "종찬",
+    "gender": "male"
+  },
+  {
+    "reading": "종혁",
+    "gender": "male"
+  },
+  {
+    "reading": "종현",
+    "gender": "male"
+  },
+  {
+    "reading": "종호",
+    "gender": "male"
+  },
+  {
+    "reading": "종훈",
+    "gender": "male"
+  },
+  {
+    "reading": "주리",
+    "gender": "female"
+  },
+  {
+    "reading": "주미",
+    "gender": "female"
+  },
+  {
+    "reading": "주빈",
+    "gender": "female"
+  },
+  {
+    "reading": "주성",
+    "gender": "male"
+  },
+  {
+    "reading": "주아",
+    "gender": "female"
+  },
+  {
+    "reading": "주안",
+    "gender": "neutral"
+  },
+  {
+    "reading": "주언",
+    "gender": "female"
+  },
+  {
+    "reading": "주연",
+    "gender": "female"
+  },
+  {
+    "reading": "주영",
+    "gender": "neutral"
+  },
+  {
+    "reading": "주완",
+    "gender": "male"
+  },
+  {
+    "reading": "주원",
+    "gender": "neutral"
+  },
+  {
+    "reading": "주윤",
+    "gender": "female"
+  },
+  {
+    "reading": "주은",
+    "gender": "female"
+  },
+  {
+    "reading": "주하",
+    "gender": "neutral"
+  },
+  {
+    "reading": "주한",
+    "gender": "male"
+  },
+  {
+    "reading": "주헌",
+    "gender": "male"
+  },
+  {
+    "reading": "주혁",
+    "gender": "male"
+  },
+  {
+    "reading": "주현",
+    "gender": "neutral"
+  },
+  {
+    "reading": "주형",
+    "gender": "male"
+  },
+  {
+    "reading": "주혜",
+    "gender": "female"
+  },
+  {
+    "reading": "주호",
+    "gender": "male"
+  },
+  {
+    "reading": "주환",
+    "gender": "male"
+  },
+  {
+    "reading": "주희",
+    "gender": "female"
+  },
+  {
+    "reading": "준기",
+    "gender": "male"
+  },
+  {
+    "reading": "준모",
+    "gender": "male"
+  },
+  {
+    "reading": "준민",
+    "gender": "male"
+  },
+  {
+    "reading": "준범",
+    "gender": "male"
+  },
+  {
+    "reading": "준상",
+    "gender": "male"
+  },
+  {
+    "reading": "준서",
+    "gender": "male"
+  },
+  {
+    "reading": "준석",
+    "gender": "male"
+  },
+  {
+    "reading": "준성",
+    "gender": "male"
+  },
+  {
+    "reading": "준수",
+    "gender": "male"
+  },
+  {
+    "reading": "준열",
+    "gender": "male"
+  },
+  {
+    "reading": "준영",
+    "gender": "male"
+  },
+  {
+    "reading": "준오",
+    "gender": "male"
+  },
+  {
+    "reading": "준용",
+    "gender": "male"
+  },
+  {
+    "reading": "준우",
+    "gender": "male"
+  },
+  {
+    "reading": "준원",
+    "gender": "male"
+  },
+  {
+    "reading": "준하",
+    "gender": "male"
+  },
+  {
+    "reading": "준혁",
+    "gender": "male"
+  },
+  {
+    "reading": "준현",
+    "gender": "male"
+  },
+  {
+    "reading": "준형",
+    "gender": "male"
+  },
+  {
+    "reading": "준호",
+    "gender": "male"
+  },
+  {
+    "reading": "준환",
+    "gender": "male"
+  },
+  {
+    "reading": "준후",
+    "gender": "male"
+  },
+  {
+    "reading": "준휘",
+    "gender": "male"
+  },
+  {
+    "reading": "준희",
+    "gender": "neutral"
+  },
+  {
+    "reading": "지나",
+    "gender": "female"
+  },
+  {
+    "reading": "지민",
+    "gender": "neutral"
+  },
+  {
+    "reading": "지빈",
+    "gender": "female"
+  },
+  {
+    "reading": "지상",
+    "gender": "male"
+  },
+  {
+    "reading": "지석",
+    "gender": "male"
+  },
+  {
+    "reading": "지선",
+    "gender": "female"
+  },
+  {
+    "reading": "지섭",
+    "gender": "male"
+  },
+  {
+    "reading": "지성",
+    "gender": "male"
+  },
+  {
+    "reading": "지수",
+    "gender": "neutral"
+  },
+  {
+    "reading": "지승",
+    "gender": "male"
+  },
+  {
+    "reading": "지아",
+    "gender": "female"
+  },
+  {
+    "reading": "지안",
+    "gender": "neutral"
+  },
+  {
+    "reading": "지애",
+    "gender": "female"
+  },
+  {
+    "reading": "지언",
+    "gender": "female"
+  },
+  {
+    "reading": "지연",
+    "gender": "female"
+  },
+  {
+    "reading": "지영",
+    "gender": "female"
+  },
+  {
+    "reading": "지예",
+    "gender": "female"
+  },
+  {
+    "reading": "지오",
+    "gender": "neutral"
+  },
+  {
+    "reading": "지온",
+    "gender": "neutral"
+  },
+  {
+    "reading": "지완",
+    "gender": "male"
+  },
+  {
+    "reading": "지용",
+    "gender": "male"
+  },
+  {
+    "reading": "지우",
+    "gender": "neutral"
+  },
+  {
+    "reading": "지욱",
+    "gender": "male"
+  },
+  {
+    "reading": "지운",
+    "gender": "neutral"
+  },
+  {
+    "reading": "지웅",
+    "gender": "male"
+  },
+  {
+    "reading": "지원",
+    "gender": "neutral"
+  },
+  {
+    "reading": "지유",
+    "gender": "neutral"
+  },
+  {
+    "reading": "지윤",
+    "gender": "neutral"
+  },
+  {
+    "reading": "지율",
+    "gender": "neutral"
+  },
+  {
+    "reading": "지은",
+    "gender": "female"
+  },
+  {
+    "reading": "지음",
+    "gender": "female"
+  },
+  {
+    "reading": "지인",
+    "gender": "female"
+  },
+  {
+    "reading": "지한",
+    "gender": "male"
+  },
+  {
+    "reading": "지헌",
+    "gender": "male"
+  },
+  {
+    "reading": "지혁",
+    "gender": "male"
+  },
+  {
+    "reading": "지현",
+    "gender": "neutral"
+  },
+  {
+    "reading": "지형",
+    "gender": "male"
+  },
+  {
+    "reading": "지혜",
+    "gender": "female"
+  },
+  {
+    "reading": "지호",
+    "gender": "neutral"
+  },
+  {
+    "reading": "지환",
+    "gender": "male"
+  },
+  {
+    "reading": "지효",
+    "gender": "female"
+  },
+  {
+    "reading": "지후",
+    "gender": "neutral"
+  },
+  {
+    "reading": "지훈",
+    "gender": "male"
+  },
+  {
+    "reading": "지희",
+    "gender": "female"
+  },
+  {
+    "reading": "진경",
+    "gender": "female"
+  },
+  {
+    "reading": "진규",
+    "gender": "male"
+  },
+  {
+    "reading": "진서",
+    "gender": "neutral"
+  },
+  {
+    "reading": "진석",
+    "gender": "male"
+  },
+  {
+    "reading": "진성",
+    "gender": "male"
+  },
+  {
+    "reading": "진수",
+    "gender": "male"
+  },
+  {
+    "reading": "진아",
+    "gender": "female"
+  },
+  {
+    "reading": "진영",
+    "gender": "neutral"
+  },
+  {
+    "reading": "진용",
+    "gender": "male"
+  },
+  {
+    "reading": "진우",
+    "gender": "male"
+  },
+  {
+    "reading": "진욱",
+    "gender": "male"
+  },
+  {
+    "reading": "진원",
+    "gender": "male"
+  },
+  {
+    "reading": "진이",
+    "gender": "female"
+  },
+  {
+    "reading": "진주",
+    "gender": "female"
+  },
+  {
+    "reading": "진하",
+    "gender": "male"
+  },
+  {
+    "reading": "진혁",
+    "gender": "male"
+  },
+  {
+    "reading": "진현",
+    "gender": "male"
+  },
+  {
+    "reading": "진형",
+    "gender": "male"
+  },
+  {
+    "reading": "진호",
+    "gender": "male"
+  },
+  {
+    "reading": "진홍",
+    "gender": "male"
+  },
+  {
+    "reading": "진희",
+    "gender": "female"
+  },
+  {
+    "reading": "찬민",
+    "gender": "male"
+  },
+  {
+    "reading": "찬빈",
+    "gender": "male"
+  },
+  {
+    "reading": "찬서",
+    "gender": "male"
+  },
+  {
+    "reading": "찬솔",
+    "gender": "male"
+  },
+  {
+    "reading": "찬영",
+    "gender": "male"
+  },
+  {
+    "reading": "찬우",
+    "gender": "male"
+  },
+  {
+    "reading": "찬웅",
+    "gender": "male"
+  },
+  {
+    "reading": "찬유",
+    "gender": "male"
+  },
+  {
+    "reading": "찬율",
+    "gender": "male"
+  },
+  {
+    "reading": "찬혁",
+    "gender": "male"
+  },
+  {
+    "reading": "찬형",
+    "gender": "male"
+  },
+  {
+    "reading": "찬호",
+    "gender": "male"
+  },
+  {
+    "reading": "찬희",
+    "gender": "male"
+  },
+  {
+    "reading": "창민",
+    "gender": "male"
+  },
+  {
+    "reading": "창우",
+    "gender": "male"
+  },
+  {
+    "reading": "창현",
+    "gender": "male"
+  },
+  {
+    "reading": "창호",
+    "gender": "male"
+  },
+  {
+    "reading": "채령",
+    "gender": "female"
+  },
+  {
+    "reading": "채리",
+    "gender": "female"
+  },
+  {
+    "reading": "채린",
+    "gender": "female"
+  },
+  {
+    "reading": "채민",
+    "gender": "neutral"
+  },
+  {
+    "reading": "채범",
+    "gender": "male"
+  },
+  {
+    "reading": "채빈",
+    "gender": "female"
+  },
+  {
+    "reading": "채아",
+    "gender": "female"
+  },
+  {
+    "reading": "채안",
+    "gender": "female"
+  },
+  {
+    "reading": "채언",
+    "gender": "female"
+  },
+  {
+    "reading": "채연",
+    "gender": "female"
+  },
+  {
+    "reading": "채영",
+    "gender": "female"
+  },
+  {
+    "reading": "채우",
+    "gender": "male"
+  },
+  {
+    "reading": "채운",
+    "gender": "male"
+  },
+  {
+    "reading": "채원",
+    "gender": "female"
+  },
+  {
+    "reading": "채유",
+    "gender": "female"
+  },
+  {
+    "reading": "채윤",
+    "gender": "female"
+  },
+  {
+    "reading": "채율",
+    "gender": "female"
+  },
+  {
+    "reading": "채은",
+    "gender": "female"
+  },
+  {
+    "reading": "채이",
+    "gender": "female"
+  },
+  {
+    "reading": "채인",
+    "gender": "female"
+  },
+  {
+    "reading": "채준",
+    "gender": "male"
+  },
+  {
+    "reading": "채하",
+    "gender": "female"
+  },
+  {
+    "reading": "채현",
+    "gender": "female"
+  },
+  {
+    "reading": "채훈",
+    "gender": "male"
+  },
+  {
+    "reading": "채희",
+    "gender": "female"
+  },
+  {
+    "reading": "철호",
+    "gender": "male"
+  },
+  {
+    "reading": "초아",
+    "gender": "female"
+  },
+  {
+    "reading": "초원",
+    "gender": "female"
+  },
+  {
+    "reading": "태강",
+    "gender": "male"
+  },
+  {
+    "reading": "태건",
+    "gender": "male"
+  },
+  {
+    "reading": "태검",
+    "gender": "male"
+  },
+  {
+    "reading": "태겸",
+    "gender": "male"
+  },
+  {
+    "reading": "태경",
+    "gender": "neutral"
+  },
+  {
+    "reading": "태곤",
+    "gender": "male"
+  },
+  {
+    "reading": "태규",
+    "gender": "male"
+  },
+  {
+    "reading": "태균",
+    "gender": "male"
+  },
+  {
+    "reading": "태리",
+    "gender": "female"
+  },
+  {
+    "reading": "태린",
+    "gender": "female"
+  },
+  {
+    "reading": "태림",
+    "gender": "female"
+  },
+  {
+    "reading": "태민",
+    "gender": "male"
+  },
+  {
+    "reading": "태성",
+    "gender": "male"
+  },
+  {
+    "reading": "태양",
+    "gender": "male"
+  },
+  {
+    "reading": "태연",
+    "gender": "neutral"
+  },
+  {
+    "reading": "태영",
+    "gender": "neutral"
+  },
+  {
+    "reading": "태오",
+    "gender": "male"
+  },
+  {
+    "reading": "태완",
+    "gender": "male"
+  },
+  {
+    "reading": "태우",
+    "gender": "male"
+  },
+  {
+    "reading": "태욱",
+    "gender": "male"
+  },
+  {
+    "reading": "태운",
+    "gender": "male"
+  },
+  {
+    "reading": "태웅",
+    "gender": "male"
+  },
+  {
+    "reading": "태원",
+    "gender": "male"
+  },
+  {
+    "reading": "태윤",
+    "gender": "neutral"
+  },
+  {
+    "reading": "태율",
+    "gender": "male"
+  },
+  {
+    "reading": "태은",
+    "gender": "neutral"
+  },
+  {
+    "reading": "태이",
+    "gender": "neutral"
+  },
+  {
+    "reading": "태인",
+    "gender": "neutral"
+  },
+  {
+    "reading": "태정",
+    "gender": "male"
+  },
+  {
+    "reading": "태준",
+    "gender": "male"
+  },
+  {
+    "reading": "태진",
+    "gender": "male"
+  },
+  {
+    "reading": "태하",
+    "gender": "male"
+  },
+  {
+    "reading": "태헌",
+    "gender": "male"
+  },
+  {
+    "reading": "태현",
+    "gender": "male"
+  },
+  {
+    "reading": "태형",
+    "gender": "male"
+  },
+  {
+    "reading": "태호",
+    "gender": "male"
+  },
+  {
+    "reading": "태환",
+    "gender": "male"
+  },
+  {
+    "reading": "태후",
+    "gender": "male"
+  },
+  {
+    "reading": "태훈",
+    "gender": "male"
+  },
+  {
+    "reading": "태희",
+    "gender": "neutral"
+  },
+  {
+    "reading": "하겸",
+    "gender": "male"
+  },
+  {
+    "reading": "하경",
+    "gender": "female"
+  },
+  {
+    "reading": "하나",
+    "gender": "female"
+  },
+  {
+    "reading": "하늘",
+    "gender": "neutral"
+  },
+  {
+    "reading": "하늬",
+    "gender": "female"
+  },
+  {
+    "reading": "하라",
+    "gender": "female"
+  },
+  {
+    "reading": "하람",
+    "gender": "neutral"
+  },
+  {
+    "reading": "하랑",
+    "gender": "neutral"
+  },
+  {
+    "reading": "하령",
+    "gender": "female"
+  },
+  {
+    "reading": "하루",
+    "gender": "neutral"
+  },
+  {
+    "reading": "하리",
+    "gender": "female"
+  },
+  {
+    "reading": "하린",
+    "gender": "female"
+  },
+  {
+    "reading": "하림",
+    "gender": "female"
+  },
+  {
+    "reading": "하민",
+    "gender": "neutral"
+  },
+  {
+    "reading": "하빈",
+    "gender": "neutral"
+  },
+  {
+    "reading": "하선",
+    "gender": "female"
+  },
+  {
+    "reading": "하성",
+    "gender": "male"
+  },
+  {
+    "reading": "하엘",
+    "gender": "neutral"
+  },
+  {
+    "reading": "하연",
+    "gender": "female"
+  },
+  {
+    "reading": "하영",
+    "gender": "female"
+  },
+  {
+    "reading": "하온",
+    "gender": "neutral"
+  },
+  {
+    "reading": "하운",
+    "gender": "male"
+  },
+  {
+    "reading": "하원",
+    "gender": "female"
+  },
+  {
+    "reading": "하윤",
+    "gender": "neutral"
+  },
+  {
+    "reading": "하율",
+    "gender": "neutral"
+  },
+  {
+    "reading": "하은",
+    "gender": "female"
+  },
+  {
+    "reading": "하음",
+    "gender": "female"
+  },
+  {
+    "reading": "하이",
+    "gender": "female"
+  },
+  {
+    "reading": "하임",
+    "gender": "female"
+  },
+  {
+    "reading": "하정",
+    "gender": "female"
+  },
+  {
+    "reading": "하준",
+    "gender": "male"
+  },
+  {
+    "reading": "하진",
+    "gender": "neutral"
+  },
+  {
+    "reading": "하현",
+    "gender": "female"
+  },
+  {
+    "reading": "한결",
+    "gender": "neutral"
+  },
+  {
+    "reading": "한겸",
+    "gender": "male"
+  },
+  {
+    "reading": "한규",
+    "gender": "male"
+  },
+  {
+    "reading": "한나",
+    "gender": "female"
+  },
+  {
+    "reading": "한별",
+    "gender": "neutral"
+  },
+  {
+    "reading": "한비",
+    "gender": "female"
+  },
+  {
+    "reading": "한성",
+    "gender": "male"
+  },
+  {
+    "reading": "한솔",
+    "gender": "neutral"
+  },
+  {
+    "reading": "한슬",
+    "gender": "female"
+  },
+  {
+    "reading": "한울",
+    "gender": "male"
+  },
+  {
+    "reading": "한율",
+    "gender": "neutral"
+  },
+  {
+    "reading": "한준",
+    "gender": "male"
+  },
+  {
+    "reading": "한희",
+    "gender": "female"
+  },
+  {
+    "reading": "해나",
+    "gender": "female"
+  },
+  {
+    "reading": "해리",
+    "gender": "female"
+  },
+  {
+    "reading": "해린",
+    "gender": "female"
+  },
+  {
+    "reading": "해림",
+    "gender": "female"
+  },
+  {
+    "reading": "해빈",
+    "gender": "female"
+  },
+  {
+    "reading": "해성",
+    "gender": "male"
+  },
+  {
+    "reading": "해솔",
+    "gender": "neutral"
+  },
+  {
+    "reading": "해연",
+    "gender": "female"
+  },
+  {
+    "reading": "해영",
+    "gender": "female"
+  },
+  {
+    "reading": "해온",
+    "gender": "female"
+  },
+  {
+    "reading": "해원",
+    "gender": "female"
+  },
+  {
+    "reading": "해윤",
+    "gender": "neutral"
+  },
+  {
+    "reading": "해인",
+    "gender": "neutral"
+  },
+  {
+    "reading": "해정",
+    "gender": "female"
+  },
+  {
+    "reading": "해주",
+    "gender": "female"
+  },
+  {
+    "reading": "해준",
+    "gender": "male"
+  },
+  {
+    "reading": "해찬",
+    "gender": "male"
+  },
+  {
+    "reading": "혁준",
+    "gender": "male"
+  },
+  {
+    "reading": "현경",
+    "gender": "female"
+  },
+  {
+    "reading": "현규",
+    "gender": "male"
+  },
+  {
+    "reading": "현기",
+    "gender": "male"
+  },
+  {
+    "reading": "현도",
+    "gender": "male"
+  },
+  {
+    "reading": "현동",
+    "gender": "male"
+  },
+  {
+    "reading": "현민",
+    "gender": "neutral"
+  },
+  {
+    "reading": "현빈",
+    "gender": "male"
+  },
+  {
+    "reading": "현서",
+    "gender": "neutral"
+  },
+  {
+    "reading": "현석",
+    "gender": "male"
+  },
+  {
+    "reading": "현성",
+    "gender": "male"
+  },
+  {
+    "reading": "현수",
+    "gender": "neutral"
+  },
+  {
+    "reading": "현승",
+    "gender": "male"
+  },
+  {
+    "reading": "현아",
+    "gender": "female"
+  },
+  {
+    "reading": "현우",
+    "gender": "male"
+  },
+  {
+    "reading": "현욱",
+    "gender": "male"
+  },
+  {
+    "reading": "현율",
+    "gender": "male"
+  },
+  {
+    "reading": "현재",
+    "gender": "male"
+  },
+  {
+    "reading": "현정",
+    "gender": "female"
+  },
+  {
+    "reading": "현종",
+    "gender": "male"
+  },
+  {
+    "reading": "현주",
+    "gender": "female"
+  },
+  {
+    "reading": "현준",
+    "gender": "male"
+  },
+  {
+    "reading": "현중",
+    "gender": "male"
+  },
+  {
+    "reading": "현지",
+    "gender": "female"
+  },
+  {
+    "reading": "현진",
+    "gender": "neutral"
+  },
+  {
+    "reading": "현철",
+    "gender": "male"
+  },
+  {
+    "reading": "현태",
+    "gender": "male"
+  },
+  {
+    "reading": "현호",
+    "gender": "male"
+  },
+  {
+    "reading": "현희",
+    "gender": "female"
+  },
+  {
+    "reading": "형근",
+    "gender": "male"
+  },
+  {
+    "reading": "형민",
+    "gender": "male"
+  },
+  {
+    "reading": "형석",
+    "gender": "male"
+  },
+  {
+    "reading": "형우",
+    "gender": "male"
+  },
+  {
+    "reading": "형욱",
+    "gender": "male"
+  },
+  {
+    "reading": "형주",
+    "gender": "male"
+  },
+  {
+    "reading": "형준",
+    "gender": "male"
+  },
+  {
+    "reading": "형진",
+    "gender": "male"
+  },
+  {
+    "reading": "혜경",
+    "gender": "female"
+  },
+  {
+    "reading": "혜교",
+    "gender": "female"
+  },
+  {
+    "reading": "혜나",
+    "gender": "female"
+  },
+  {
+    "reading": "혜란",
+    "gender": "female"
+  },
+  {
+    "reading": "혜령",
+    "gender": "female"
+  },
+  {
+    "reading": "혜리",
+    "gender": "female"
+  },
+  {
+    "reading": "혜린",
+    "gender": "female"
+  },
+  {
+    "reading": "혜림",
+    "gender": "female"
+  },
+  {
+    "reading": "혜미",
+    "gender": "female"
+  },
+  {
+    "reading": "혜민",
+    "gender": "female"
+  },
+  {
+    "reading": "혜빈",
+    "gender": "female"
+  },
+  {
+    "reading": "혜선",
+    "gender": "female"
+  },
+  {
+    "reading": "혜성",
+    "gender": "male"
+  },
+  {
+    "reading": "혜수",
+    "gender": "female"
+  },
+  {
+    "reading": "혜연",
+    "gender": "female"
+  },
+  {
+    "reading": "혜영",
+    "gender": "female"
+  },
+  {
+    "reading": "혜원",
+    "gender": "female"
+  },
+  {
+    "reading": "혜윤",
+    "gender": "female"
+  },
+  {
+    "reading": "혜율",
+    "gender": "female"
+  },
+  {
+    "reading": "혜은",
+    "gender": "female"
+  },
+  {
+    "reading": "혜인",
+    "gender": "female"
+  },
+  {
+    "reading": "혜정",
+    "gender": "female"
+  },
+  {
+    "reading": "혜주",
+    "gender": "female"
+  },
+  {
+    "reading": "혜지",
+    "gender": "female"
+  },
+  {
+    "reading": "혜진",
+    "gender": "female"
+  },
+  {
+    "reading": "호성",
+    "gender": "male"
+  },
+  {
+    "reading": "호연",
+    "gender": "neutral"
+  },
+  {
+    "reading": "호영",
+    "gender": "male"
+  },
+  {
+    "reading": "호원",
+    "gender": "male"
+  },
+  {
+    "reading": "호윤",
+    "gender": "male"
+  },
+  {
+    "reading": "호재",
+    "gender": "male"
+  },
+  {
+    "reading": "호준",
+    "gender": "male"
+  },
+  {
+    "reading": "호진",
+    "gender": "male"
+  },
+  {
+    "reading": "홍준",
+    "gender": "male"
+  },
+  {
+    "reading": "화영",
+    "gender": "female"
+  },
+  {
+    "reading": "환희",
+    "gender": "neutral"
+  },
+  {
+    "reading": "효리",
+    "gender": "female"
+  },
+  {
+    "reading": "효린",
+    "gender": "female"
+  },
+  {
+    "reading": "효림",
+    "gender": "female"
+  },
+  {
+    "reading": "효민",
+    "gender": "neutral"
+  },
+  {
+    "reading": "효빈",
+    "gender": "female"
+  },
+  {
+    "reading": "효섭",
+    "gender": "male"
+  },
+  {
+    "reading": "효성",
+    "gender": "male"
+  },
+  {
+    "reading": "효원",
+    "gender": "female"
+  },
+  {
+    "reading": "효은",
+    "gender": "female"
+  },
+  {
+    "reading": "효인",
+    "gender": "female"
+  },
+  {
+    "reading": "효정",
+    "gender": "female"
+  },
+  {
+    "reading": "효주",
+    "gender": "female"
+  },
+  {
+    "reading": "효준",
+    "gender": "male"
+  },
+  {
+    "reading": "효진",
+    "gender": "female"
+  },
+  {
+    "reading": "희나",
+    "gender": "female"
+  },
+  {
+    "reading": "희도",
+    "gender": "male"
+  },
+  {
+    "reading": "희민",
+    "gender": "female"
+  },
+  {
+    "reading": "희서",
+    "gender": "female"
+  },
+  {
+    "reading": "희선",
+    "gender": "female"
+  },
+  {
+    "reading": "희성",
+    "gender": "male"
+  },
+  {
+    "reading": "희수",
+    "gender": "neutral"
+  },
+  {
+    "reading": "희승",
+    "gender": "male"
+  },
+  {
+    "reading": "희연",
+    "gender": "female"
+  },
+  {
+    "reading": "희영",
+    "gender": "female"
+  },
+  {
+    "reading": "희우",
+    "gender": "female"
+  },
+  {
+    "reading": "희원",
+    "gender": "neutral"
+  },
+  {
+    "reading": "희윤",
+    "gender": "female"
+  },
+  {
+    "reading": "희은",
+    "gender": "female"
+  },
+  {
+    "reading": "희재",
+    "gender": "neutral"
+  },
+  {
+    "reading": "희정",
+    "gender": "female"
+  },
+  {
+    "reading": "희주",
+    "gender": "female"
+  },
+  {
+    "reading": "희준",
+    "gender": "male"
+  },
+  {
+    "reading": "희지",
+    "gender": "female"
+  },
+  {
+    "reading": "희진",
+    "gender": "female"
+  },
+  {
+    "reading": "희찬",
+    "gender": "male"
+  },
+  {
+    "reading": "희태",
+    "gender": "male"
+  }
+]
