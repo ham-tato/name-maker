@@ -120,5 +120,19 @@
   { "char": "琳", "stroke": 12, "ohaeng": "金", "reading": "린", "meaning": "옥 소리",        "gender": "female",  "positive": true  },
   { "char": "多", "stroke": 6,  "ohaeng": "水", "reading": "다", "meaning": "많다",           "gender": "neutral", "positive": true  },
   { "char": "怡", "stroke": 9,  "ohaeng": "火", "reading": "이", "meaning": "기쁘다",         "gender": "neutral", "positive": true  },
-  { "char": "雪", "stroke": 11, "ohaeng": "水", "reading": "설", "meaning": "눈",             "gender": "female",  "positive": true  }
+  { "char": "雪", "stroke": 11, "ohaeng": "水", "reading": "설", "meaning": "눈",             "gender": "female",  "positive": true  },
+
+  { "char": "宙", "stroke": 8,  "ohaeng": "土", "reading": "주", "meaning": "하늘, 우주",   "gender": "neutral", "positive": true  },
+  { "char": "周", "stroke": 8,  "ohaeng": "金", "reading": "주", "meaning": "두루",          "gender": "neutral", "positive": true  },
+  { "char": "延", "stroke": 7,  "ohaeng": "水", "reading": "연", "meaning": "늘이다, 이어지다", "gender": "neutral", "positive": true  },
+  { "char": "玹", "stroke": 9,  "ohaeng": "金", "reading": "현", "meaning": "옥 소리",       "gender": "male",    "positive": true  },
+  { "char": "昇", "stroke": 8,  "ohaeng": "火", "reading": "승", "meaning": "오르다",        "gender": "male",    "positive": true  },
+  { "char": "在", "stroke": 6,  "ohaeng": "土", "reading": "재", "meaning": "있다, 재주",    "gender": "neutral", "positive": true  },
+  { "char": "河", "stroke": 8,  "ohaeng": "水", "reading": "하", "meaning": "물",            "gender": "neutral", "positive": true  },
+  { "char": "娥", "stroke": 10, "ohaeng": "土", "reading": "아", "meaning": "아름답다",      "gender": "female",  "positive": true  },
+  { "char": "蕾", "stroke": 16, "ohaeng": "木", "reading": "뢰", "meaning": "꽃봉오리",      "gender": "female",  "positive": true  },
+  { "char": "誠", "stroke": 14, "ohaeng": "金", "reading": "성", "meaning": "정성",          "gender": "neutral", "positive": true  },
+  { "char": "完", "stroke": 7,  "ohaeng": "土", "reading": "완", "meaning": "완전하다",      "gender": "neutral", "positive": true  },
+  { "char": "喜", "stroke": 12, "ohaeng": "火", "reading": "희", "meaning": "기쁘다",        "gender": "neutral", "positive": true  },
+  { "char": "侑", "stroke": 8,  "ohaeng": "土", "reading": "유", "meaning": "권하다, 돕다",  "gender": "neutral", "positive": true  }
 ]
