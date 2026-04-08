@@ -77,13 +77,13 @@ function computeMonthPillar(yearGanIdx: number, sajuMonth: number): Pillar {
 
 /**
  * 일주(Day Pillar) 계산
- * 기준: 2000-01-01 = 庚辰日 = 60갑자 index 16
+ * 기준: 2000-01-01 = 戊午日 = 60갑자 index 54
  */
 function computeDayPillar(birthdate: string): Pillar {
   const ref = new Date('2000-01-01T00:00:00Z')
   const target = new Date(birthdate + 'T00:00:00Z')
   const daysDiff = Math.round((target.getTime() - ref.getTime()) / 86400000)
-  const index60 = ((16 + daysDiff) % 60 + 60) % 60
+  const index60 = ((54 + daysDiff) % 60 + 60) % 60
   const ganIdx = index60 % 10
   const jiIdx = index60 % 12
   return { gan: CHEONGAN[ganIdx], ji: JIJI[jiIdx] }
