@@ -305,7 +305,7 @@ export function InputForm() {
                   const bIsSurname = b.meaning.includes('성씨') ? 0 : 1
                   return aIsSurname - bIsSurname
                 })
-                .map((h, idx) => (
+                .map((h) => (
                   <button
                     key={`${entry.reading}-${h.char}`}
                     type="button"

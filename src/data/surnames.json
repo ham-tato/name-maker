@@ -1,12 +1,18 @@
 [
   { "reading": "가", "hanja": [{ "char": "賈", "stroke": 13, "ohaeng": "木", "meaning": "성씨" }]},
+  { "reading": "간", "hanja": [{ "char": "簡", "stroke": 18, "ohaeng": "木", "meaning": "대쪽, 성씨" }]},
+  { "reading": "갈", "hanja": [{ "char": "葛", "stroke": 13, "ohaeng": "木", "meaning": "칡, 성씨" }]},
+  { "reading": "감", "hanja": [{ "char": "甘", "stroke": 5, "ohaeng": "土", "meaning": "달다, 성씨" }]},
   { "reading": "강", "hanja": [
     { "char": "姜", "stroke": 9, "ohaeng": "土", "meaning": "성씨" },
     { "char": "康", "stroke": 11, "ohaeng": "木", "meaning": "편안하다" },
     { "char": "江", "stroke": 6, "ohaeng": "水", "meaning": "강" }
   ]},
   { "reading": "견", "hanja": [{ "char": "堅", "stroke": 12, "ohaeng": "土", "meaning": "굳다" }]},
-  { "reading": "경", "hanja": [{ "char": "慶", "stroke": 15, "ohaeng": "火", "meaning": "경사, 성씨" }]},
+  { "reading": "경", "hanja": [
+    { "char": "慶", "stroke": 15, "ohaeng": "火", "meaning": "경사, 성씨" },
+    { "char": "景", "stroke": 12, "ohaeng": "火", "meaning": "볕, 성씨" }
+  ]},
   { "reading": "계", "hanja": [{ "char": "桂", "stroke": 10, "ohaeng": "木", "meaning": "계수나무" }]},
   { "reading": "고", "hanja": [{ "char": "高", "stroke": 10, "ohaeng": "火", "meaning": "높다, 성씨" }]},
   { "reading": "공", "hanja": [{ "char": "孔", "stroke": 4, "ohaeng": "水", "meaning": "구멍, 성씨" }]},
@@ -22,15 +28,23 @@
   { "reading": "김", "hanja": [{ "char": "金", "stroke": 8, "ohaeng": "金", "meaning": "성씨" }]},
   { "reading": "나", "hanja": [{ "char": "羅", "stroke": 19, "ohaeng": "火", "meaning": "그물, 성씨" }]},
   { "reading": "남", "hanja": [{ "char": "南", "stroke": 9, "ohaeng": "火", "meaning": "남쪽, 성씨" }]},
+  { "reading": "남궁", "hanja": [{ "char": "南宮", "stroke": 19, "ohaeng": "火", "meaning": "남쪽 궁궐, 성씨" }]},
   { "reading": "노", "hanja": [
     { "char": "盧", "stroke": 16, "ohaeng": "火", "meaning": "성씨" },
     { "char": "魯", "stroke": 15, "ohaeng": "火", "meaning": "노나라" }
   ]},
+  { "reading": "단", "hanja": [{ "char": "段", "stroke": 9, "ohaeng": "金", "meaning": "층계, 성씨" }]},
+  { "reading": "도", "hanja": [{ "char": "都", "stroke": 12, "ohaeng": "土", "meaning": "도읍, 성씨" }]},
+  { "reading": "독고", "hanja": [{ "char": "獨孤", "stroke": 25, "ohaeng": "木", "meaning": "홀로, 성씨" }]},
+  { "reading": "동", "hanja": [{ "char": "董", "stroke": 13, "ohaeng": "木", "meaning": "감독하다, 성씨" }]},
+  { "reading": "동방", "hanja": [{ "char": "東方", "stroke": 12, "ohaeng": "木", "meaning": "동쪽, 성씨" }]},
+  { "reading": "두", "hanja": [{ "char": "杜", "stroke": 7, "ohaeng": "木", "meaning": "막다, 성씨" }]},
   { "reading": "류", "hanja": [{ "char": "柳", "stroke": 9, "ohaeng": "木", "meaning": "버드나무, 성씨" }]},
   { "reading": "마", "hanja": [{ "char": "馬", "stroke": 10, "ohaeng": "火", "meaning": "말, 성씨" }]},
   { "reading": "맹", "hanja": [{ "char": "孟", "stroke": 8, "ohaeng": "水", "meaning": "맏이, 성씨" }]},
   { "reading": "명", "hanja": [{ "char": "明", "stroke": 8, "ohaeng": "火", "meaning": "밝다, 성씨" }]},
   { "reading": "모", "hanja": [{ "char": "牟", "stroke": 6, "ohaeng": "水", "meaning": "성씨" }]},
+  { "reading": "목", "hanja": [{ "char": "睦", "stroke": 13, "ohaeng": "木", "meaning": "화목하다, 성씨" }]},
   { "reading": "문", "hanja": [{ "char": "文", "stroke": 4, "ohaeng": "木", "meaning": "글, 성씨" }]},
   { "reading": "민", "hanja": [{ "char": "閔", "stroke": 12, "ohaeng": "木", "meaning": "성씨" }]},
   { "reading": "박", "hanja": [{ "char": "朴", "stroke": 6, "ohaeng": "木", "meaning": "성씨" }]},
@@ -41,17 +55,27 @@
   ]},
   { "reading": "배", "hanja": [{ "char": "裵", "stroke": 14, "ohaeng": "水", "meaning": "성씨" }]},
   { "reading": "백", "hanja": [{ "char": "白", "stroke": 5, "ohaeng": "金", "meaning": "희다, 성씨" }]},
+  { "reading": "범", "hanja": [{ "char": "范", "stroke": 9, "ohaeng": "水", "meaning": "법도, 성씨" }]},
   { "reading": "변", "hanja": [
     { "char": "卞", "stroke": 4, "ohaeng": "水", "meaning": "성씨" },
     { "char": "邊", "stroke": 19, "ohaeng": "水", "meaning": "가, 성씨" }
   ]},
+  { "reading": "복", "hanja": [{ "char": "卜", "stroke": 2, "ohaeng": "水", "meaning": "점치다, 성씨" }]},
   { "reading": "봉", "hanja": [{ "char": "奉", "stroke": 8, "ohaeng": "水", "meaning": "받들다, 성씨" }]},
+  { "reading": "부", "hanja": [{ "char": "夫", "stroke": 4, "ohaeng": "土", "meaning": "남자, 성씨" }]},
+  { "reading": "빈", "hanja": [{ "char": "賓", "stroke": 14, "ohaeng": "水", "meaning": "손님, 성씨" }]},
+  { "reading": "사", "hanja": [{ "char": "史", "stroke": 5, "ohaeng": "金", "meaning": "역사, 성씨" }]},
+  { "reading": "사공", "hanja": [{ "char": "司空", "stroke": 13, "ohaeng": "金", "meaning": "벼슬, 성씨" }]},
+  { "reading": "상", "hanja": [{ "char": "尙", "stroke": 8, "ohaeng": "金", "meaning": "오히려, 성씨" }]},
   { "reading": "서", "hanja": [{ "char": "徐", "stroke": 10, "ohaeng": "金", "meaning": "천천히, 성씨" }]},
+  { "reading": "서문", "hanja": [{ "char": "西門", "stroke": 15, "ohaeng": "金", "meaning": "서쪽 문, 성씨" }]},
   { "reading": "석", "hanja": [
     { "char": "石", "stroke": 5, "ohaeng": "土", "meaning": "성씨" },
     { "char": "昔", "stroke": 8, "ohaeng": "火", "meaning": "옛날, 성씨" }
   ]},
   { "reading": "선", "hanja": [{ "char": "宣", "stroke": 9, "ohaeng": "金", "meaning": "베풀다, 성씨" }]},
+  { "reading": "선우", "hanja": [{ "char": "鮮于", "stroke": 20, "ohaeng": "金", "meaning": "성씨" }]},
+  { "reading": "설", "hanja": [{ "char": "薛", "stroke": 17, "ohaeng": "木", "meaning": "성씨" }]},
   { "reading": "성", "hanja": [
     { "char": "成", "stroke": 6, "ohaeng": "金", "meaning": "이루다, 성씨" },
     { "char": "盛", "stroke": 11, "ohaeng": "金", "meaning": "성하다" }
@@ -62,9 +86,11 @@
   ]},
   { "reading": "손", "hanja": [{ "char": "孫", "stroke": 10, "ohaeng": "木", "meaning": "손자, 성씨" }]},
   { "reading": "송", "hanja": [{ "char": "宋", "stroke": 7, "ohaeng": "木", "meaning": "성씨" }]},
+  { "reading": "승", "hanja": [{ "char": "承", "stroke": 8, "ohaeng": "木", "meaning": "잇다, 성씨" }]},
   { "reading": "신", "hanja": [
     { "char": "申", "stroke": 5, "ohaeng": "金", "meaning": "성씨" },
-    { "char": "辛", "stroke": 7, "ohaeng": "金", "meaning": "매울, 성씨" }
+    { "char": "辛", "stroke": 7, "ohaeng": "金", "meaning": "매울, 성씨" },
+    { "char": "愼", "stroke": 14, "ohaeng": "金", "meaning": "삼가다, 성씨" }
   ]},
   { "reading": "심", "hanja": [{ "char": "沈", "stroke": 7, "ohaeng": "水", "meaning": "성씨" }]},
   { "reading": "안", "hanja": [{ "char": "安", "stroke": 6, "ohaeng": "土", "meaning": "편안하다, 성씨" }]},
@@ -72,6 +98,7 @@
     { "char": "梁", "stroke": 11, "ohaeng": "木", "meaning": "들보, 성씨" },
     { "char": "楊", "stroke": 13, "ohaeng": "木", "meaning": "버드나무, 성씨" }
   ]},
+  { "reading": "어", "hanja": [{ "char": "魚", "stroke": 11, "ohaeng": "水", "meaning": "물고기, 성씨" }]},
   { "reading": "엄", "hanja": [{ "char": "嚴", "stroke": 20, "ohaeng": "土", "meaning": "엄하다, 성씨" }]},
   { "reading": "여", "hanja": [
     { "char": "呂", "stroke": 7, "ohaeng": "火", "meaning": "성씨" },
@@ -79,7 +106,9 @@
   ]},
   { "reading": "연", "hanja": [{ "char": "延", "stroke": 7, "ohaeng": "木", "meaning": "성씨" }]},
   { "reading": "염", "hanja": [{ "char": "廉", "stroke": 13, "ohaeng": "水", "meaning": "청렴하다, 성씨" }]},
+  { "reading": "예", "hanja": [{ "char": "芮", "stroke": 10, "ohaeng": "木", "meaning": "성씨" }]},
   { "reading": "오", "hanja": [{ "char": "吳", "stroke": 7, "ohaeng": "土", "meaning": "성씨" }]},
+  { "reading": "온", "hanja": [{ "char": "溫", "stroke": 13, "ohaeng": "水", "meaning": "따뜻하다, 성씨" }]},
   { "reading": "옥", "hanja": [{ "char": "玉", "stroke": 5, "ohaeng": "金", "meaning": "구슬, 성씨" }]},
   { "reading": "왕", "hanja": [{ "char": "王", "stroke": 4, "ohaeng": "土", "meaning": "임금, 성씨" }]},
   { "reading": "우", "hanja": [{ "char": "禹", "stroke": 9, "ohaeng": "土", "meaning": "성씨" }]},
@@ -92,7 +121,10 @@
     { "char": "劉", "stroke": 15, "ohaeng": "金", "meaning": "성씨" },
     { "char": "兪", "stroke": 9, "ohaeng": "金", "meaning": "성씨" }
   ]},
+  { "reading": "육", "hanja": [{ "char": "陸", "stroke": 11, "ohaeng": "土", "meaning": "뭍, 성씨" }]},
   { "reading": "윤", "hanja": [{ "char": "尹", "stroke": 4, "ohaeng": "土", "meaning": "다스리다, 성씨" }]},
+  { "reading": "음", "hanja": [{ "char": "陰", "stroke": 11, "ohaeng": "水", "meaning": "그늘, 성씨" }]},
+  { "reading": "은", "hanja": [{ "char": "殷", "stroke": 10, "ohaeng": "金", "meaning": "성하다, 성씨" }]},
   { "reading": "이", "hanja": [
     { "char": "李", "stroke": 7, "ohaeng": "木", "meaning": "성씨" },
     { "char": "異", "stroke": 11, "ohaeng": "土", "meaning": "다르다" }
@@ -105,22 +137,29 @@
   { "reading": "장", "hanja": [
     { "char": "張", "stroke": 11, "ohaeng": "火", "meaning": "성씨" },
     { "char": "章", "stroke": 11, "ohaeng": "金", "meaning": "글, 성씨" },
-    { "char": "莊", "stroke": 10, "ohaeng": "木", "meaning": "엄숙하다, 성씨" }
+    { "char": "莊", "stroke": 10, "ohaeng": "木", "meaning": "엄숙하다, 성씨" },
+    { "char": "蔣", "stroke": 15, "ohaeng": "木", "meaning": "성씨" }
   ]},
   { "reading": "전", "hanja": [
     { "char": "全", "stroke": 6, "ohaeng": "金", "meaning": "성씨" },
-    { "char": "田", "stroke": 5, "ohaeng": "土", "meaning": "밭, 성씨" }
+    { "char": "田", "stroke": 5, "ohaeng": "土", "meaning": "밭, 성씨" },
+    { "char": "錢", "stroke": 16, "ohaeng": "金", "meaning": "돈, 성씨" }
   ]},
   { "reading": "정", "hanja": [
     { "char": "鄭", "stroke": 15, "ohaeng": "火", "meaning": "성씨" },
     { "char": "丁", "stroke": 2, "ohaeng": "火", "meaning": "장정, 성씨" }
   ]},
   { "reading": "제", "hanja": [{ "char": "諸", "stroke": 15, "ohaeng": "火", "meaning": "여러, 성씨" }]},
+  { "reading": "제갈", "hanja": [{ "char": "諸葛", "stroke": 28, "ohaeng": "木", "meaning": "성씨" }]},
   { "reading": "조", "hanja": [
     { "char": "趙", "stroke": 14, "ohaeng": "火", "meaning": "성씨" },
     { "char": "曺", "stroke": 11, "ohaeng": "金", "meaning": "성씨" }
   ]},
-  { "reading": "주", "hanja": [{ "char": "朱", "stroke": 6, "ohaeng": "火", "meaning": "붉다, 성씨" }]},
+  { "reading": "좌", "hanja": [{ "char": "左", "stroke": 5, "ohaeng": "木", "meaning": "왼쪽, 성씨" }]},
+  { "reading": "주", "hanja": [
+    { "char": "朱", "stroke": 6, "ohaeng": "火", "meaning": "붉다, 성씨" },
+    { "char": "周", "stroke": 8, "ohaeng": "水", "meaning": "두루, 성씨" }
+  ]},
   { "reading": "지", "hanja": [
     { "char": "池", "stroke": 6, "ohaeng": "水", "meaning": "연못, 성씨" },
     { "char": "智", "stroke": 12, "ohaeng": "水", "meaning": "지혜, 성씨" }
@@ -142,9 +181,15 @@
     { "char": "鄒", "stroke": 17, "ohaeng": "土", "meaning": "성씨" }
   ]},
   { "reading": "탁", "hanja": [{ "char": "卓", "stroke": 8, "ohaeng": "火", "meaning": "높다, 성씨" }]},
+  { "reading": "태", "hanja": [{ "char": "太", "stroke": 4, "ohaeng": "火", "meaning": "크다, 성씨" }]},
+  { "reading": "팽", "hanja": [{ "char": "彭", "stroke": 12, "ohaeng": "水", "meaning": "성씨" }]},
+  { "reading": "편", "hanja": [{ "char": "片", "stroke": 4, "ohaeng": "金", "meaning": "조각, 성씨" }]},
   { "reading": "표", "hanja": [{ "char": "表", "stroke": 8, "ohaeng": "水", "meaning": "겉, 성씨" }]},
   { "reading": "피", "hanja": [{ "char": "皮", "stroke": 5, "ohaeng": "土", "meaning": "가죽, 성씨" }]},
-  { "reading": "하", "hanja": [{ "char": "河", "stroke": 8, "ohaeng": "水", "meaning": "성씨" }]},
+  { "reading": "하", "hanja": [
+    { "char": "河", "stroke": 8, "ohaeng": "水", "meaning": "성씨" },
+    { "char": "夏", "stroke": 10, "ohaeng": "火", "meaning": "여름, 성씨" }
+  ]},
   { "reading": "한", "hanja": [
     { "char": "韓", "stroke": 17, "ohaeng": "火", "meaning": "성씨" },
     { "char": "漢", "stroke": 14, "ohaeng": "水", "meaning": "성씨" }
@@ -153,6 +198,11 @@
   { "reading": "허", "hanja": [{ "char": "許", "stroke": 11, "ohaeng": "金", "meaning": "허락하다, 성씨" }]},
   { "reading": "현", "hanja": [{ "char": "玄", "stroke": 5, "ohaeng": "水", "meaning": "검다, 성씨" }]},
   { "reading": "형", "hanja": [{ "char": "邢", "stroke": 7, "ohaeng": "金", "meaning": "성씨" }]},
+  { "reading": "호", "hanja": [{ "char": "扈", "stroke": 11, "ohaeng": "火", "meaning": "따르다, 성씨" }]},
   { "reading": "홍", "hanja": [{ "char": "洪", "stroke": 9, "ohaeng": "水", "meaning": "넓다, 성씨" }]},
-  { "reading": "황", "hanja": [{ "char": "黃", "stroke": 12, "ohaeng": "土", "meaning": "성씨" }]}
+  { "reading": "황", "hanja": [{ "char": "黃", "stroke": 12, "ohaeng": "土", "meaning": "성씨" }]},
+  { "reading": "황보", "hanja": [{ "char": "皇甫", "stroke": 17, "ohaeng": "土", "meaning": "성씨" }]},
+  { "reading": "용", "hanja": [{ "char": "龍", "stroke": 16, "ohaeng": "水", "meaning": "용, 성씨" }]},
+  { "reading": "금", "hanja": [{ "char": "琴", "stroke": 12, "ohaeng": "木", "meaning": "거문고, 성씨" }]},
+  { "reading": "시", "hanja": [{ "char": "施", "stroke": 9, "ohaeng": "金", "meaning": "베풀다, 성씨" }]}
 ]
